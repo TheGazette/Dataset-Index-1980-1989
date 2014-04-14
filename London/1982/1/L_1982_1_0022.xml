@@ -710,8 +710,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>
-      <Forenames>J. E. D.</Forenames>
-      <Text>de La V</Text>
+      <Forenames>J. E. D. de La V.</Forenames>
       <PageNumber>2144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -869,7 +868,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bueno</Key>
-      <Text>de Besquita, N. P</Text>
+      <Forenames>de Besquita</Forenames>
+      <Text>, N. P</Text>
       <PageNumber>1785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2111,8 +2111,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Forenames>A. L. St</Forenames>
-      <Text>. G. S</Text>
+      <Forenames>A. L. St. G</Forenames>
+      <Text>. S</Text>
       <PageNumber>3273</PageNumber>
     </MainItem>
   </ItemGroup>

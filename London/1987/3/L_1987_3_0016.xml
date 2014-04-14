@@ -1495,7 +1495,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Colhoun</Key>
-      <Text>P.C. J</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>11461</PageNumber>
     </MainItem>
   </ItemGroup>

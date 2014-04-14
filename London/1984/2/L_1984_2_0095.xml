@@ -73,8 +73,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beaufort</Key>
-      <Forenames>The</Forenames>
-      <Text>Duke of</Text>
+      <Title>The Duke</Title>
+      <Text>of</Text>
       <PageNumber>8742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2277,8 +2277,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Forenames>S. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>S. St. C</Forenames>
       <PageNumber>5822</PageNumber>
     </MainItem>
   </ItemGroup>

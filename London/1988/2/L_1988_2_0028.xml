@@ -185,9 +185,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Gee</Forenames>
-      <Text>, G</Text>
+      <Key>Van Gee</Key>
+      <Forenames>G</Forenames>
       <PageNumber>4953</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +214,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Varey</Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>6350</PageNumber>
       <PageNumber>6351</PageNumber>
       <PageNumber>6889</PageNumber>
@@ -1484,7 +1485,9 @@
     <MainItem>
       <Key>Whitelaw</Key>
       <Forenames>A.</Forenames>
-      <Text>CB</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>4313</PageNumber>
     </MainItem>
   </ItemGroup>

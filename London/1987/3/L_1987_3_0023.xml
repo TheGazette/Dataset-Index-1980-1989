@@ -2306,8 +2306,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murphy</Key>
-      <Forenames>E.O</Forenames>
-      <Text>'D.M</Text>
+      <Forenames>E.O'D</Forenames>
+      <Text>.M</Text>
       <PageNumber>11456</PageNumber>
     </MainItem>
   </ItemGroup>

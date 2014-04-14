@@ -2,8 +2,8 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="024" pageID="https://www.thegazette.co.uk/id/London/index/year/1981/volume/4/page/024" pagePDF="https://www.thegazette.co.uk/London/index/year/1981/volume/4/page/024" pageRDF="https://www.thegazette.co.uk/London/index/year/1981/volume/4/page/024?view=linked-data" type="index" volume="4" year="1981">
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, M. J</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>14925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -16,8 +16,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, C. H</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>C. H.</Forenames>
       <PageNumber>14921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,8 +65,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, M. P</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>M. P.</Forenames>
       <PageNumber>13611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1717,8 +1717,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Puoh</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>G. St. A</Forenames>
       <PageNumber>13275</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -550,6 +550,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Planta</Key>
+      <Forenames>De Wildenburg</Forenames>
+      <Text>, F.M.G</Text>
+      <PageNumber>4948</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Derbyshire</Key>
       <Forenames>A. E</Forenames>
       <PageNumber>4951</PageNumber>
@@ -911,7 +919,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Donoghue</Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>4310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2080,8 +2090,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Feeney</Key>
-      <Forenames>E.J.O</Forenames>
-      <Text>'R</Text>
+      <Forenames>E.J.O'R</Forenames>
       <PageNumber>7164</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2337,8 +2346,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzmaurice</Key>
-      <Forenames>A. F. N. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. F. N. St. J</Forenames>
       <PageNumber>6353</PageNumber>
     </MainItem>
   </ItemGroup>

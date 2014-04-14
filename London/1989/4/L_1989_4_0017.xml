@@ -38,8 +38,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Glendinning</Key>
-      <Forenames>M. P. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>M. P. St. C</Forenames>
       <PageNumber>14347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -849,8 +848,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffin</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. St. J</Forenames>
       <PageNumber>11315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1419,8 +1417,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hammick</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>P. St. L</Forenames>
       <PageNumber>12508</PageNumber>
     </MainItem>
   </ItemGroup>

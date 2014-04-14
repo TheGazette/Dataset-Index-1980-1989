@@ -1242,16 +1242,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Den Bergh</Forenames>
+      <Key>Van Den</Key>
+      <Forenames>Bergh</Forenames>
       <Text>, M. J</Text>
       <PageNumber>7091</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Noot</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Noot</Forenames>
       <Text>, C. H</Text>
       <PageNumber>8715</PageNumber>
     </MainItem>

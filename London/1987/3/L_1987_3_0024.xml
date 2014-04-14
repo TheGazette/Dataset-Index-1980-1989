@@ -634,50 +634,50 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell.D. T</Text>
+      <Key>O'Connell</Key>
+      <Forenames>D. T.</Forenames>
       <PageNumber>9580</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, A</Text>
+      <Key>O'Connor</Key>
+      <Forenames>A.</Forenames>
       <PageNumber>9577</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, G.M</Text>
+      <Key>O'Connor</Key>
+      <Forenames>G.M .</Forenames>
       <PageNumber>10175</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, J. R</Text>
+      <Key>O'Connor</Key>
+      <Forenames>J. R</Forenames>
       <PageNumber>8657</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dell.R.M</Text>
+      <Key>O'Dell</Key>
+      <Forenames>R.M .</Forenames>
       <PageNumber>10455</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dell.S.M</Text>
+      <Key>O'Dell</Key>
+      <Forenames>S.M.</Forenames>
       <PageNumber>12056</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, D. T. M</Text>
+      <Key>O'Donovan</Key>
+      <Forenames>D. T. M.</Forenames>
       <PageNumber>11727</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -711,22 +711,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman.P. A.,</Text>
+      <Key>O'Gorman</Key>
+      <Forenames>P. A.</Forenames>
+      <Text>,</Text>
       <PageNumber>11733</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Halloran.M.A</Text>
+      <Key>O'Halloran</Key>
+      <Forenames>M.A.</Forenames>
       <PageNumber>8659</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara.C.T</Text>
+      <Key>O'Hara</Key>
+      <Forenames>C.T.</Forenames>
       <PageNumber>8660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,8 +789,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley.P</Text>
+      <Key>O'Malley</Key>
+      <Forenames>P</Forenames>
       <PageNumber>9285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -809,15 +810,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, C</Text>
+      <Key>O'Neill</Key>
+      <Forenames>C .</Forenames>
       <PageNumber>11736</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, P. E</Text>
+      <Key>O'Neill</Key>
+      <Forenames>P. E</Forenames>
       <PageNumber>10746</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -830,15 +831,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Regan (522993)</Text>
+      <Key>O'Regan</Key>
+      <Title>(522993)</Title>
       <PageNumber>11454</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly,J.P</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>J.P.</Forenames>
       <PageNumber>12065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,8 +859,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke.MT</Text>
+      <Key>O'Rourke</Key>
+      <Text>MT</Text>
       <PageNumber>8659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -922,29 +923,31 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan.B.J</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>B.J.</Forenames>
       <PageNumber>12061</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan.J.S.S</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>J.S.S.</Forenames>
       <PageNumber>11203</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan.M.P</Text>
+      <Key>O'Sullivan</Key>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>8663</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan.P.S</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>P.S.</Forenames>
       <PageNumber>12054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1963,9 +1966,11 @@
       <Key>Phillips</Key>
       <Forenames>K.</Forenames>
       <Text>R.D</Text>
-      <PageNumber>11456</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Honour>
+    <PageNumber>11456</PageNumber>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
@@ -2217,7 +2222,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pollard</Key>
-      <Text>CB</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>8656</PageNumber>
     </MainItem>
   </ItemGroup>

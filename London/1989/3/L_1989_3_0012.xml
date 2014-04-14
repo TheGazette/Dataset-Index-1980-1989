@@ -788,8 +788,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barker</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>G. St. J</Forenames>
       <PageNumber>9171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2213,115 +2212,117 @@
       <Key>Bolt</Key>
       <Forenames>A.</Forenames>
       <Text>V.C</Text>
-      <PageNumber>10215</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bolton</Key>
-      <Forenames>B.N</Forenames>
-      <PageNumber>7805</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bolton</Key>
-      <Forenames>N. S</Forenames>
-      <PageNumber>10467</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bolton</Key>
-      <Forenames>P.M.</Forenames>
-      <PageNumber>7806</PageNumber>
-      <PageNumber>9956</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bolton</Key>
-      <Forenames>R</Forenames>
-      <PageNumber>8092</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bolwell</Key>
-      <Forenames>M</Forenames>
-      <PageNumber>9167</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bon</Key>
-      <Forenames>D. A</Forenames>
-      <PageNumber>7807</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bona</Key>
-      <Forenames>M.J</Forenames>
-      <PageNumber>9169</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bond</Key>
-      <Forenames>A. J</Forenames>
-      <PageNumber>9171</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bond</Key>
-      <Forenames>G. H</Forenames>
-      <PageNumber>8620</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bond</Key>
-      <Forenames>G. R</Forenames>
-      <PageNumber>7804</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bonnor-Moris</Key>
-      <Forenames>D. E.</Forenames>
-      <PageNumber>8085</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bonwitt</Key>
-      <Forenames>A.J</Forenames>
-      <PageNumber>8902</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Boot</Key>
-      <Forenames>A. J</Forenames>
-      <PageNumber>9173</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Booth</Key>
-      <Forenames>A. M</Forenames>
-      <PageNumber>8618</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Booth</Key>
-      <Forenames>R.C</Forenames>
-      <PageNumber>10465</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>10215</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bolton</Key>
+        <Forenames>B.N</Forenames>
+        <PageNumber>7805</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bolton</Key>
+        <Forenames>N. S</Forenames>
+        <PageNumber>10467</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bolton</Key>
+        <Forenames>P.M.</Forenames>
+        <PageNumber>7806</PageNumber>
+        <PageNumber>9956</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bolton</Key>
+        <Forenames>R</Forenames>
+        <PageNumber>8092</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bolwell</Key>
+        <Forenames>M</Forenames>
+        <PageNumber>9167</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bon</Key>
+        <Forenames>D. A</Forenames>
+        <PageNumber>7807</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bona</Key>
+        <Forenames>M.J</Forenames>
+        <PageNumber>9169</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bond</Key>
+        <Forenames>A. J</Forenames>
+        <PageNumber>9171</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bond</Key>
+        <Forenames>G. H</Forenames>
+        <PageNumber>8620</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bond</Key>
+        <Forenames>G. R</Forenames>
+        <PageNumber>7804</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bonnor-Moris</Key>
+        <Forenames>D. E.</Forenames>
+        <PageNumber>8085</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bonwitt</Key>
+        <Forenames>A.J</Forenames>
+        <PageNumber>8902</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Boot</Key>
+        <Forenames>A. J</Forenames>
+        <PageNumber>9173</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Booth</Key>
+        <Forenames>A. M</Forenames>
+        <PageNumber>8618</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Booth</Key>
+        <Forenames>R.C</Forenames>
+        <PageNumber>10465</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Bootle</Key>

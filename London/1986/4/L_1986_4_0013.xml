@@ -75,7 +75,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Barton-Smith</Key>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>15871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1542,8 +1544,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bodington</Key>
-      <Forenames>R. H. W. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>R. H. W. St. G</Forenames>
       <PageNumber>14503</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -212,9 +212,36 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Courcy-Ireland</Forenames>
-      <Text>, H. G</Text>
+      <Key>de Boyer</Key>
+      <Forenames>J. P</Forenames>
+      <PageNumber>6673</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Bretton-Gordon</Key>
+      <Forenames>L. J.</Forenames>
+      <PageNumber>6326</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Buriatte</Key>
+      <Forenames>T. J</Forenames>
+      <PageNumber>7052</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Chair</Key>
+      <Forenames>D. G.</Forenames>
+      <PageNumber>7049</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Courcy-Ireland</Key>
+      <Forenames>H. G.</Forenames>
       <PageNumber>8667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,6 +268,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Haldevang</Key>
+      <Forenames>J. H.</Forenames>
+      <PageNumber>8342</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Hartog</Key>
+      <Forenames>N. J</Forenames>
+      <PageNumber>6671</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dehnel</Key>
       <Forenames>J. G.</Forenames>
       <PageNumber>6329</PageNumber>
@@ -251,6 +292,13 @@
       <Key>Deighton</Key>
       <Forenames>A. J</Forenames>
       <PageNumber>6001</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mendonca</Key>
+      <Forenames>R. A. J.</Forenames>
+      <PageNumber>7059</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -356,6 +404,13 @@
       <Key>De-Salis</Key>
       <Forenames>M. S. F</Forenames>
       <PageNumber>8670</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Savigny-Bower</Key>
+      <Forenames>R. A.</Forenames>
+      <PageNumber>7060</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -850,8 +905,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Downs</Key>
-      <Forenames>P.</Forenames>
-      <Text>de C</Text>
+      <Forenames>P.de C</Forenames>
       <PageNumber>4914</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1972,8 +2026,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Fenton-O</Key>
-      <Text>'Creevy, L. D</Text>
+      <Key>Fenton-O'Creevy</Key>
+      <Forenames>L. D.</Forenames>
       <PageNumber>5281</PageNumber>
     </MainItem>
   </ItemGroup>

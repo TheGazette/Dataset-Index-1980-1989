@@ -663,8 +663,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Earle</Key>
-      <Forenames>J. C. R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. C. R. St. J</Forenames>
       <PageNumber>5815</PageNumber>
     </MainItem>
   </ItemGroup>

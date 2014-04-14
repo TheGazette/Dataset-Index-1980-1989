@@ -830,9 +830,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bretton-Gordon</Key>
+      <Forenames>L. J.</Forenames>
+      <PageNumber>15272</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>deBurca</Key>
       <Forenames>P. J.</Forenames>
       <PageNumber>14271</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Chair</Key>
+      <Forenames>D. G.</Forenames>
+      <PageNumber>15271</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -868,6 +882,13 @@
       <Key>Delves</Key>
       <Forenames>C. N. G.</Forenames>
       <PageNumber>15273</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mattoes</Key>
+      <Forenames>C. R.</Forenames>
+      <PageNumber>15623</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -956,6 +977,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Normann</Key>
+      <Forenames>A. L.</Forenames>
+      <PageNumber>15621</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Denson</Key>
       <Forenames>D. S.</Forenames>
       <PageNumber>16711</PageNumber>
@@ -1005,8 +1033,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Tscharner Vischer</Forenames>
+      <Key>De Tscharner</Key>
+      <Forenames>Vischer</Forenames>
       <Text>, N. J</Text>
       <PageNumber>16712</PageNumber>
     </MainItem>
@@ -1016,6 +1044,13 @@
       <Key>Devereux</Key>
       <Forenames>P. C.</Forenames>
       <PageNumber>15627</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Verteuil</Key>
+      <Forenames>J. A.</Forenames>
+      <PageNumber>17062</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1326,7 +1361,9 @@
     <MainItem>
       <Key>Dixon</Key>
       <Forenames>R.</Forenames>
-      <Text>C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>17054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2121,8 +2158,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Earle</Key>
-      <Forenames>J. C. R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. C. R. St. J</Forenames>
       <PageNumber>16705</PageNumber>
     </MainItem>
   </ItemGroup>

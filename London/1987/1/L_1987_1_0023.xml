@@ -439,8 +439,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Fenton-O</Key>
-      <Text>'Creevy, L. D</Text>
+      <Key>Fenton-O'Creevy</Key>
+      <Forenames>L. D.</Forenames>
       <PageNumber>2477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,8 +679,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzmaurice</Key>
-      <Forenames>A. F. N. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. F. N. St. J</Forenames>
       <PageNumber>456</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2319,7 +2318,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gover</Key>
-      <Text>V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>1078</PageNumber>
       <PageNumber>1437</PageNumber>
       <PageNumber>3179</PageNumber>

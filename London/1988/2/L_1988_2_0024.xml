@@ -334,7 +334,9 @@
     <MainItem>
       <Key>McKechnie</Key>
       <Forenames>A.</Forenames>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>5197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -969,7 +971,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mangham</Key>
-      <Text>M.D. W</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1699,8 +1703,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Middleton</Key>
-      <Forenames>The</Forenames>
-      <Text>Lord</Text>
+      <Title>The Lord</Title>
       <PageNumber>5199</PageNumber>
     </MainItem>
   </ItemGroup>

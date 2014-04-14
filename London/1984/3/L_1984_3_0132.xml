@@ -10,8 +10,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Luxembourg</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The Grand</Forenames>
+      <Title>H.R.H. The</Title>
+      <Forenames>Grand</Forenames>
       <Text>Duke of</Text>
       <PageNumber>12020</PageNumber>
     </MainItem>
@@ -54,8 +54,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lytle</Key>
-      <Forenames>S. W. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>S. W. St. J</Forenames>
       <PageNumber>9774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2038,8 +2037,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Massey</Key>
-      <Forenames>S. A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>S. A. St. J</Forenames>
       <PageNumber>12664</PageNumber>
     </MainItem>
   </ItemGroup>

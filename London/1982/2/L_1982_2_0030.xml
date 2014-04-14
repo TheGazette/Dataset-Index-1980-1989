@@ -620,8 +620,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Melhuish</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J. M</Text>
+      <Forenames>G. St. J</Forenames>
+      <Text>. M</Text>
       <PageNumber>8228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2384,43 +2384,43 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, F. W</Text>
+      <Key>O'Brien</Key>
+      <Forenames>F. W.</Forenames>
       <PageNumber>5663</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, R</Text>
+      <Key>O'Brien</Key>
+      <Forenames>R.</Forenames>
       <PageNumber>8226</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, T. N</Text>
+      <Key>O'Brien</Key>
+      <Forenames>T. N.</Forenames>
       <PageNumber>5651</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Byrne, R. N</Text>
+      <Key>O'Byrne</Key>
+      <Forenames>R. N.</Forenames>
       <PageNumber>7225</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, E. A</Text>
+      <Key>O'Connell</Key>
+      <Forenames>E. A.</Forenames>
       <PageNumber>6920</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, T.S</Text>
+      <Key>O'Connor</Key>
+      <Forenames>T.S.</Forenames>
       <PageNumber>4751</PageNumber>
       <PageNumber>6925</PageNumber>
     </MainItem>

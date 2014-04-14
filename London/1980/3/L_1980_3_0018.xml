@@ -9,6 +9,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>J. F.</Forenames>
+      <PageNumber>9709</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dexter</Key>
       <Forenames>A. C.</Forenames>
       <PageNumber>9720</PageNumber>
@@ -791,8 +798,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Durham</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J. L</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. L</Text>
       <PageNumber>11755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -812,9 +819,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Rose</Forenames>
-      <Text>, G. J</Text>
+      <Key>Du Rose</Key>
+      <Forenames>G. J.</Forenames>
       <PageNumber>11757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,9 +854,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Vallon-Lohan</Forenames>
-      <Text>, M. D</Text>
+      <Key>Du Vallon-Lohan</Key>
+      <Forenames>M. D.</Forenames>
       <PageNumber>13317</PageNumber>
     </MainItem>
   </ItemGroup>

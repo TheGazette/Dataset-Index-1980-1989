@@ -1601,8 +1601,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lash</Key>
-      <Forenames>W. R.</Forenames>
-      <Text>de W</Text>
+      <Forenames>W. R. de W</Forenames>
       <PageNumber>552</PageNumber>
     </MainItem>
   </ItemGroup>

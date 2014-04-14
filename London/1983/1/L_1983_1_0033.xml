@@ -628,17 +628,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Grutten</Forenames>
-      <Text>, M. W</Text>
+      <Key>Van Grutten</Key>
+      <Forenames>M. W.</Forenames>
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Lare</Forenames>
-      <Text>, J. P</Text>
+      <Key>Van Lare</Key>
+      <Forenames>J. P.</Forenames>
       <PageNumber>2220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -771,9 +769,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Baumann</Forenames>
-      <Text>, A. G</Text>
+      <Key>Von Baumann</Key>
+      <Forenames>A. G.</Forenames>
       <PageNumber>4354</PageNumber>
     </MainItem>
   </ItemGroup>

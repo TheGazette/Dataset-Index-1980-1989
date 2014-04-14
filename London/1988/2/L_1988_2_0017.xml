@@ -865,7 +865,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ameye</Key>
-      <Text>CB</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>4310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1299,7 +1301,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Auger</Key>
-      <Text>CB</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>7166</PageNumber>
     </MainItem>
   </ItemGroup>

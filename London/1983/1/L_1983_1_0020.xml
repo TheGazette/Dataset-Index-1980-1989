@@ -834,8 +834,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wonfor</Key>
-      <Forenames>T. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>T. St. C</Forenames>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1486,9 +1485,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Beuningen</Forenames>
-      <Text>, H. A. M</Text>
+      <Key>Van Beuningen</Key>
+      <Forenames>H. A. M.</Forenames>
       <PageNumber>45</PageNumber>
     </MainItem>
   </ItemGroup>

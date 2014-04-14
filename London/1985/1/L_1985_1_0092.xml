@@ -505,8 +505,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Forenames>M. S. O</Forenames>
-      <Text>'F</Text>
+      <Forenames>M. S. O'F</Forenames>
       <PageNumber>1623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -716,8 +715,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cosby</Key>
-      <Forenames>R. A.</Forenames>
-      <Text>de S</Text>
+      <Forenames>R. A. de S</Forenames>
       <PageNumber>1241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2121,6 +2119,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Halpert</Key>
+      <Forenames>J. M.</Forenames>
+      <PageNumber>1241</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Halpert</Key>
+      <Forenames>S. D.</Forenames>
+      <PageNumber>1241</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dempsey</Key>
       <Forenames>P. W. W</Forenames>
       <Text>:</Text>
@@ -2248,6 +2260,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Savigny-Bower</Key>
+      <Forenames>R. A.</Forenames>
+      <PageNumber>512</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Devenish-Meares</Key>
       <Forenames>B</Forenames>
       <Text>L</Text>
@@ -2286,8 +2305,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Devonshire</Key>
-      <Forenames>The</Forenames>
-      <Text>Duke of</Text>
+      <Title>The Duke</Title>
+      <Text>of</Text>
       <PageNumber>1621</PageNumber>
     </MainItem>
   </ItemGroup>

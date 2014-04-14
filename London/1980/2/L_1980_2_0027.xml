@@ -1162,9 +1162,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Johnston</Forenames>
-      <Text>, C. I</Text>
+      <Key>St. Johnston</Key>
+      <Forenames>C. I.</Forenames>
       <PageNumber>9001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1248,8 +1247,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunders</Key>
-      <Forenames>P. N. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>P. N. St. J</Forenames>
       <PageNumber>6342</PageNumber>
     </MainItem>
   </ItemGroup>

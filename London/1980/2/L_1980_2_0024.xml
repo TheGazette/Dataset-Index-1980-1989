@@ -1385,7 +1385,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Koch</Key>
-      <Text>de Gooreynd, P. F. L</Text>
+      <Forenames>de Gooreynd</Forenames>
+      <Text>, P. F. L</Text>
       <PageNumber>6336</PageNumber>
     </MainItem>
   </ItemGroup>

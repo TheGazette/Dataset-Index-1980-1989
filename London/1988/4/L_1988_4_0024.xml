@@ -781,8 +781,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scarbrough</Key>
-      <Forenames>The</Forenames>
-      <Text>Earl of</Text>
+      <Title>The Earl</Title>
+      <Text>of</Text>
       <PageNumber>13681</PageNumber>
     </MainItem>
   </ItemGroup>

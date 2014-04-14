@@ -841,7 +841,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibson</Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>12214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1107,7 +1109,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillott</Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>13685</PageNumber>
     </MainItem>
   </ItemGroup>

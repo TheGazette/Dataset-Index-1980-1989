@@ -444,8 +444,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Earle</Key>
-      <Forenames>J. C. R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. C. R. St. J</Forenames>
       <PageNumber>9769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1084,8 +1083,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>G. St. J</Forenames>
       <PageNumber>11484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1758,8 +1756,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Filler</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. St. J</Forenames>
       <PageNumber>13143</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -145,8 +145,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cox</Key>
-      <Forenames>M.S. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M.S. St. J</Forenames>
       <PageNumber>13921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +385,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cronin</Key>
-      <Text>K.T</Text>
+      <Text>
+        <Honour>K.T</Honour>
+      </Text>
       <PageNumber>15296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1743,9 +1744,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Rougemont</Forenames>
-      <Text>, C. I</Text>
+      <Key>De Rougemont</Key>
+      <Forenames>C. I.</Forenames>
       <PageNumber>16689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1782,6 +1782,14 @@
       <Key>Deterding</Key>
       <Forenames>N.C.</Forenames>
       <PageNumber>13582</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Tscharner</Key>
+      <Forenames>Vischer</Forenames>
+      <Text>, N. J</Text>
+      <PageNumber>13583</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2228,7 +2236,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dorrell</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>16686</PageNumber>
     </MainItem>
   </ItemGroup>

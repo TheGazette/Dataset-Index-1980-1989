@@ -1563,8 +1563,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Haves</Key>
-      <Forenames>G.</Forenames>
-      <Text>de V. W</Text>
+      <Forenames>G. de V</Forenames>
+      <Text>. W</Text>
       <PageNumber>9775</PageNumber>
     </MainItem>
   </ItemGroup>

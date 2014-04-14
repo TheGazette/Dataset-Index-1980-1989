@@ -1569,8 +1569,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cameron</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J. E</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. E</Text>
       <PageNumber>8088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1626,7 +1626,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>9176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1808,8 +1810,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carpenter</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>R. St. G</Forenames>
       <PageNumber>7804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2269,8 +2270,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chappell</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. St. J</Forenames>
       <PageNumber>10995</PageNumber>
     </MainItem>
   </ItemGroup>

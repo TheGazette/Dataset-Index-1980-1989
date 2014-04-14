@@ -873,7 +873,9 @@
     <MainItem>
       <Key>Jones</Key>
       <Forenames>D.</Forenames>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>12948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1462,7 +1464,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelly</Key>
-      <Text>CB</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>13258</PageNumber>
     </MainItem>
   </ItemGroup>

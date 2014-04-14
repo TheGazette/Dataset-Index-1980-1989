@@ -354,8 +354,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>N. St. J</Forenames>
       <PageNumber>11713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1546,8 +1545,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barkshire</Key>
-      <Forenames>R. R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. R. St. J</Forenames>
       <PageNumber>10290</PageNumber>
     </MainItem>
   </ItemGroup>

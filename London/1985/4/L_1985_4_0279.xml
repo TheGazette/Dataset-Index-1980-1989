@@ -2211,8 +2211,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marr</Key>
-      <Forenames>M. A.</Forenames>
-      <Text>de C</Text>
+      <Forenames>M. A. de C</Forenames>
       <PageNumber>13871</PageNumber>
     </MainItem>
   </ItemGroup>

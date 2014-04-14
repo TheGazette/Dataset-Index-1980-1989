@@ -145,8 +145,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>B. St. J</Forenames>
       <PageNumber>2715</PageNumber>
     </MainItem>
   </ItemGroup>

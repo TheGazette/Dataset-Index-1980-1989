@@ -840,10 +840,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bhulbh</Forenames>
-      <Text>, M. E</Text>
+      <Key>De Bhulbh</Key>
+      <Forenames>M. E.</Forenames>
       <PageNumber>5662</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Boyer</Key>
+      <Forenames>J. P.</Forenames>
+      <PageNumber>5975</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -862,9 +868,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lotbiniere</Forenames>
-      <Text>, G. A. J</Text>
+      <Key>De Lotbiniere</Key>
+      <Forenames>G. A. J.</Forenames>
       <PageNumber>6649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,6 +941,13 @@
       <Key>Devon</Key>
       <Forenames>C. B.</Forenames>
       <PageNumber>6321</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>A. C.</Forenames>
+      <PageNumber>6974</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

@@ -60,8 +60,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Channer</Key>
-      <Forenames>R. H.</Forenames>
-      <Text>de R</Text>
+      <Forenames>R. H. de R</Forenames>
       <PageNumber>3490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -854,8 +853,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coldicott</Key>
-      <Forenames>T. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>T. St. G</Forenames>
       <PageNumber>2507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2255,7 +2253,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Darby</Key>
-      <Text>CB</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>1564</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -437,8 +437,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Forenames>R. C. O</Forenames>
-      <Text>'M</Text>
+      <Forenames>R. C. O'M</Forenames>
       <PageNumber>9526</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -299,16 +299,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Bui</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Bui</Forenames>
       <Text>, N. A. C</Text>
       <PageNumber>12817</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Gaag</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Gaag</Forenames>
       <Text>, M. C. G</Text>
       <PageNumber>11888</PageNumber>
     </MainItem>
@@ -329,9 +329,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Poeteren</Forenames>
-      <Text>, J. S. N.G</Text>
+      <Key>Van Poeteren</Key>
+      <Forenames>J. S. N.G</Forenames>
       <PageNumber>11310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -512,8 +511,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Trotha Taylor</Forenames>
+      <Key>Von Trotha</Key>
+      <Forenames>Taylor</Forenames>
       <Text>, D. C</Text>
       <PageNumber>11586</PageNumber>
     </MainItem>
@@ -1338,7 +1337,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Waugh</Key>
-      <Text>G.C. W</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>11313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1450,8 +1451,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Webster</Key>
-      <Forenames>V. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>V. St. J</Forenames>
       <PageNumber>14041</PageNumber>
     </MainItem>
   </ItemGroup>

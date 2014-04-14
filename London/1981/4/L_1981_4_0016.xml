@@ -1121,8 +1121,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Butcher</Key>
-      <Forenames>P.</Forenames>
-      <Text>de L</Text>
+      <Forenames>P. de L</Forenames>
       <PageNumber>16394</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1468,8 +1467,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carpenter</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>R. St. G</Forenames>
       <PageNumber>14595</PageNumber>
     </MainItem>
   </ItemGroup>

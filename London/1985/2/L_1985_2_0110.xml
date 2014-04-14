@@ -1411,8 +1411,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelton</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>J. St. G</Forenames>
       <PageNumber>7049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1958,8 +1957,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Laden</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>R. St. L</Forenames>
       <PageNumber>4695</PageNumber>
     </MainItem>
   </ItemGroup>

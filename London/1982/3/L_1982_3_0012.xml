@@ -1349,8 +1349,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hayes</Key>
-      <Forenames>G.</Forenames>
-      <Text>de V. W</Text>
+      <Forenames>G. de V</Forenames>
+      <Text>. W</Text>
       <PageNumber>11946</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -878,9 +878,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Poeteren</Forenames>
-      <Text>, J. S. M. G</Text>
+      <Key>Van Poeteren</Key>
+      <Forenames>J. S. M. G.</Forenames>
       <PageNumber>13574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,9 +1088,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Haldenwang</Forenames>
-      <Text>, J. H</Text>
+      <Key>Von Haldenwang</Key>
+      <Forenames>J. H.</Forenames>
       <PageNumber>13580</PageNumber>
     </MainItem>
   </ItemGroup>

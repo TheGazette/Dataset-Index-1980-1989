@@ -1190,9 +1190,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Burgh</Forenames>
-      <Text>, C. D</Text>
+      <Key>De Burgh</Key>
+      <Forenames>C. D.</Forenames>
       <PageNumber>683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1226,9 +1225,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Ferranti</Key>
+      <Forenames>M. B. Z.</Forenames>
+      <PageNumber>346</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Demaine</Key>
       <Forenames>M. J.</Forenames>
       <PageNumber>4056</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mattos</Key>
+      <Forenames>C. R.</Forenames>
+      <PageNumber>1736</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1296,6 +1309,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Normann</Key>
+      <Forenames>J. R. C.</Forenames>
+      <PageNumber>2093</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Denson</Key>
       <Forenames>D. S.</Forenames>
       <PageNumber>3635</PageNumber>
@@ -1310,6 +1330,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Planta</Key>
+      <Forenames>de Wildenberg</Forenames>
+      <Text>, C. M. G</Text>
+      <PageNumber>2093</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Desai</Key>
       <Forenames>A. K.</Forenames>
       <PageNumber>344</PageNumber>
@@ -1317,9 +1345,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Soyza</Forenames>
-      <Text>, N. A</Text>
+      <Key>De Soyza</Key>
+      <Forenames>N. A.</Forenames>
       <PageNumber>1051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1332,6 +1359,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Verteuil</Key>
+      <Forenames>J. A.</Forenames>
+      <PageNumber>4434</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Devlin</Key>
       <Forenames>M. D. C.</Forenames>
       <PageNumber>687</PageNumber>
@@ -1339,9 +1373,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vos</Forenames>
-      <Text>, J. P</Text>
+      <Key>De Vos</Key>
+      <Forenames>J. P.</Forenames>
       <PageNumber>4427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2106,9 +2139,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Port</Forenames>
-      <Text>, A. N</Text>
+      <Key>Du Port</Key>
+      <Forenames>A. N.</Forenames>
       <PageNumber>683</PageNumber>
     </MainItem>
   </ItemGroup>

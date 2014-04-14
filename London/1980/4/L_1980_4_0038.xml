@@ -150,7 +150,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rugins</Key>
-      <Text>de Montoya, Y. Y</Text>
+      <Forenames>de Montoya</Forenames>
+      <Text>, Y. Y</Text>
       <PageNumber>15624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,17 +305,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Leger</Forenames>
-      <Text>, R</Text>
+      <Key>St. Leger</Key>
+      <Forenames>R .</Forenames>
       <PageNumber>17058</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Paul</Forenames>
-      <Text>, S. R. W</Text>
+      <Key>St. Paul</Key>
+      <Forenames>S. R. W.</Forenames>
       <PageNumber>15271</PageNumber>
     </MainItem>
   </ItemGroup>

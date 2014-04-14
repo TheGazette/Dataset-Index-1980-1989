@@ -2286,9 +2286,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Boyer</Key>
+      <Forenames>J. P.</Forenames>
+      <PageNumber>3779</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De-Camps</Key>
       <Forenames>P. S.</Forenames>
       <PageNumber>2319</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Candole</Key>
+      <Forenames>J. A. V.</Forenames>
+      <PageNumber>1198</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2314,6 +2328,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Granville</Key>
+      <Forenames>P. M.</Forenames>
+      <PageNumber>1565</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Delany</Key>
       <Forenames>O. D. L.</Forenames>
       <PageNumber>823</PageNumber>
@@ -2328,9 +2349,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Mattos</Forenames>
-      <Text>, C. R</Text>
+      <Key>De Mattos</Key>
+      <Forenames>C. R.</Forenames>
       <PageNumber>3785</PageNumber>
     </MainItem>
   </ItemGroup>

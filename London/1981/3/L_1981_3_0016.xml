@@ -1736,8 +1736,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Forenames>K. D.</Forenames>
-      <Text>de M</Text>
+      <Forenames>K. D. de M</Forenames>
       <PageNumber>9157</PageNumber>
     </MainItem>
   </ItemGroup>

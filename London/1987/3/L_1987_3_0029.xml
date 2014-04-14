@@ -292,8 +292,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodhouse</Key>
-      <Forenames>H.</Forenames>
-      <Text>de C. J</Text>
+      <Forenames>H. de C</Forenames>
+      <Text>. J</Text>
       <PageNumber>11735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1037,6 +1037,7 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>L.G.</Honour>
         <PageNumber>50989</PageNumber>
       </Text>
       <PageNumber>1970</PageNumber>
@@ -1054,7 +1055,9 @@
       <PageNumber>11141</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>See L.G. No. 50989) Sportsworld</Text>
+      <Text>
+        <Honour>L.G.</Honour>
+      </Text>
       <PageNumber>11391</PageNumber>
     </SubItem>
     <SubItem>

@@ -2144,6 +2144,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bretton</Key>
+      <Forenames>Gordon</Forenames>
+      <Text>, H. S</Text>
+      <PageNumber>2793</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dee</Key>
       <Forenames>G.J</Forenames>
       <PageNumber>1488</PageNumber>
@@ -2208,6 +2216,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Lotbiniere</Key>
+      <Forenames>G. A. J.</Forenames>
+      <PageNumber>2475</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dempsey</Key>
       <Forenames>T. P. A</Forenames>
       <PageNumber>306</PageNumber>
@@ -2258,8 +2273,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Derby</Key>
-      <Forenames>The</Forenames>
-      <Text>Earl of</Text>
+      <Title>The Earl</Title>
+      <Text>of</Text>
       <PageNumber>3987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2279,9 +2294,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Soyza</Forenames>
-      <Text>, S. J</Text>
+      <Key>De Soyza</Key>
+      <Forenames>S. J</Forenames>
       <PageNumber>2152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2315,9 +2329,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vos</Forenames>
-      <Text>, J. P</Text>
+      <Key>De Vos</Key>
+      <Forenames>J. P</Forenames>
       <PageNumber>1490</PageNumber>
     </MainItem>
   </ItemGroup>

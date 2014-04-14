@@ -1096,17 +1096,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, C. J</Text>
+      <Key>St. John</Key>
+      <Forenames>C. J</Forenames>
       <PageNumber>3082</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, O. P</Text>
+      <Key>St. John</Key>
+      <Forenames>O. P</Forenames>
       <PageNumber>1967</PageNumber>
     </MainItem>
   </ItemGroup>

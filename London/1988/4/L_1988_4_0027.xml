@@ -124,7 +124,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Witney</Key>
-      <Text>T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>12503</PageNumber>
     </MainItem>
   </ItemGroup>

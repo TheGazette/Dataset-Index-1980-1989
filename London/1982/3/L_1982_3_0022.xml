@@ -1895,7 +1895,9 @@
     <MainItem>
       <Key>Sutton</Key>
       <Forenames>J.</Forenames>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>9468</PageNumber>
       <PageNumber>10742</PageNumber>
     </MainItem>

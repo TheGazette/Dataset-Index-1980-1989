@@ -1633,8 +1633,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCarthy</Key>
-      <Forenames>D. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>D. O'B</Forenames>
       <PageNumber>16467</PageNumber>
     </MainItem>
   </ItemGroup>

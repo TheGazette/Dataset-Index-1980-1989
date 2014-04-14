@@ -1204,7 +1204,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Deane</Key>
-      <Text>PC</Text>
+      <Text>
+        <Honour>PC</Honour>
+      </Text>
       <PageNumber>1623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1273,8 +1275,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Cour</Forenames>
+      <Key>De La</Key>
+      <Forenames>Cour</Forenames>
       <Text>, G</Text>
       <PageNumber>2716</PageNumber>
     </MainItem>
@@ -1288,10 +1290,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Margary</Forenames>
-      <Text>, G. D. M</Text>
+      <Key>De Margary</Key>
+      <Forenames>G. D. M.</Forenames>
       <PageNumber>4245</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mattos</Key>
+      <Forenames>C. R</Forenames>
+      <PageNumber>3440</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1352,6 +1360,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Normann</Key>
+      <Forenames>J. R. C.</Forenames>
+      <PageNumber>2709</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dent</Key>
       <Forenames>J. K</Forenames>
       <PageNumber>3082</PageNumber>
@@ -1394,17 +1409,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Souza</Forenames>
-      <Text>, C. A</Text>
+      <Key>De Souza</Key>
+      <Forenames>C. A</Forenames>
       <PageNumber>555</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Soyza</Forenames>
-      <Text>, K. W</Text>
+      <Key>De Soyza</Key>
+      <Forenames>K. W</Forenames>
       <PageNumber>2717</PageNumber>
     </MainItem>
   </ItemGroup>

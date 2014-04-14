@@ -1007,9 +1007,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Seymour</Key>
-      <Title>St.</Title>
-      <Forenames>A.</Forenames>
-      <Text>de H</Text>
+      <Title>St. A. de H.</Title>
       <PageNumber>59</PageNumber>
     </MainItem>
   </ItemGroup>

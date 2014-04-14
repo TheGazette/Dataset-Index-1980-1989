@@ -178,7 +178,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Manley</Key>
-      <Text>PC</Text>
+      <Text>
+        <Honour>PC</Honour>
+      </Text>
       <PageNumber>13216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,8 +570,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mason</Key>
-      <Forenames>K. J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>K. J. St. J</Forenames>
       <PageNumber>13834</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1158,8 +1159,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mieczkowski</Key>
-      <Forenames>S. P. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>S. P. St. L</Forenames>
       <PageNumber>12388</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1546,9 +1546,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John-Brown</Forenames>
-      <Text>, A</Text>
+      <Key>St. John-Brown</Key>
+      <Forenames>A</Forenames>
       <PageNumber>15868</PageNumber>
     </MainItem>
   </ItemGroup>

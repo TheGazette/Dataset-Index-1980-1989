@@ -1727,15 +1727,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Collin</Key>
-      <Forenames>M. P. De E.</Forenames>
+      <Forenames>M. P. De E</Forenames>
       <PageNumber>17323</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Collin</Key>
-      <Forenames>T. C.</Forenames>
-      <Text>de E</Text>
+      <Forenames>T. C. de E</Forenames>
       <PageNumber>15380</PageNumber>
     </MainItem>
   </ItemGroup>

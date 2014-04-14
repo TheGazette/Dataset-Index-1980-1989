@@ -228,8 +228,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Title>Paul.</Title>
+      <Key>St. Paul</Key>
       <Forenames>S. R.W</Forenames>
       <PageNumber>13727</PageNumber>
     </MainItem>

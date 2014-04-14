@@ -1433,17 +1433,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Aubyn</Forenames>
-      <Text>, M. J. A</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>M. J. A.</Forenames>
       <PageNumber>13630</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Aubyn-Sayer</Forenames>
-      <Text>, J. H</Text>
+      <Key>St. Aubyn-Sayer</Key>
+      <Forenames>J. H.</Forenames>
       <PageNumber>9709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1695,8 +1693,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Savill</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. St. G</Forenames>
       <PageNumber>9716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2013,8 +2010,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Severne</Key>
-      <Forenames>J.</Forenames>
-      <Text>de M</Text>
+      <Forenames>J. de M</Forenames>
       <PageNumber>12381</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -2269,8 +2269,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilbert</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. J. J</Text>
+      <Forenames>M. St. J</Forenames>
+      <Text>. J</Text>
       <PageNumber>2501</PageNumber>
     </MainItem>
   </ItemGroup>

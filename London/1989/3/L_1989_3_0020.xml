@@ -764,8 +764,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Forenames>S. A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>S. A. St. J</Forenames>
       <PageNumber>9174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,8 +1044,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Molesworth</Key>
-      <Title>St.</Title>
-      <Forenames>Aubyn</Forenames>
+      <Forenames>St. Aubyn</Forenames>
       <Text>, C. H</Text>
       <PageNumber>8093</PageNumber>
     </MainItem>

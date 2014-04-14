@@ -975,6 +975,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bourcier</Key>
+      <Forenames>P. G.</Forenames>
+      <PageNumber>5666</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Defty</Key>
       <Forenames>M. J.</Forenames>
       <PageNumber>5657</PageNumber>
@@ -999,6 +1006,13 @@
       <Key>Delf</Key>
       <Forenames>M</Forenames>
       <PageNumber>8220</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lotbiniere</Key>
+      <Forenames>G. A. J.</Forenames>
+      <PageNumber>5653</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

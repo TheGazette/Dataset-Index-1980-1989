@@ -2,8 +2,15 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="024" pageID="https://www.thegazette.co.uk/id/London/index/year/1983/volume/1/page/024" pagePDF="https://www.thegazette.co.uk/London/index/year/1983/volume/1/page/024" pageRDF="https://www.thegazette.co.uk/London/index/year/1983/volume/1/page/024?view=linked-data" type="index" volume="1" year="1983">
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Fuente</Forenames>
+      <Key>de Klee</Key>
+      <Forenames>M. P.</Forenames>
+      <PageNumber>749</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De La</Key>
+      <Forenames>Fuente</Forenames>
       <Text>, C</Text>
       <PageNumber>747</PageNumber>
     </MainItem>
@@ -25,9 +32,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lusignan</Forenames>
-      <Text>, S</Text>
+      <Key>De Lusignan</Key>
+      <Forenames>S.</Forenames>
       <PageNumber>755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -36,6 +42,13 @@
       <Key>Demaine</Key>
       <Forenames>M. J.</Forenames>
       <PageNumber>1500</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Margary</Key>
+      <Forenames>D. M.</Forenames>
+      <PageNumber>1504</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -153,6 +166,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Verteuil</Key>
+      <Forenames>J .A.</Forenames>
+      <PageNumber>3638</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Devoti</Key>
       <Forenames>P. J. J.</Forenames>
       <PageNumber>747</PageNumber>
@@ -191,6 +211,13 @@
       <Key>Dewing</Key>
       <Forenames>S. J.</Forenames>
       <PageNumber>1500</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Zulueta</Key>
+      <Forenames>P. G.</Forenames>
+      <PageNumber>2213</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -785,9 +812,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Mont</Forenames>
-      <Text>, I. M</Text>
+      <Key>Du Mont</Key>
+      <Forenames>I. M.</Forenames>
       <PageNumber>3637</PageNumber>
     </MainItem>
   </ItemGroup>

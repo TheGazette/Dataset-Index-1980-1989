@@ -640,7 +640,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Credit</Key>
-      <Text>du Nord, authorised bank under Building Societies Act</Text>
+      <Forenames>du Nord</Forenames>
+      <Text>, authorised bank under Building Societies Act</Text>
       <PageNumber>7335</PageNumber>
     </MainItem>
   </ItemGroup>

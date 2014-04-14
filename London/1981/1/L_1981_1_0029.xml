@@ -1178,8 +1178,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Homer</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>3441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1264,8 +1263,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopkins</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>N. St. J</Forenames>
       <PageNumber>2317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1384,8 +1382,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Horsford</Key>
-      <Forenames>M. C. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>M. C. O'B</Forenames>
       <PageNumber>3780</PageNumber>
     </MainItem>
   </ItemGroup>

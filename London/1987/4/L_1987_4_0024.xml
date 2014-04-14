@@ -59,8 +59,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pollock</Key>
-      <Forenames>J. H. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>J. H. O'H</Forenames>
       <PageNumber>12384</PageNumber>
     </MainItem>
   </ItemGroup>

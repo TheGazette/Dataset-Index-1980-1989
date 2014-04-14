@@ -356,16 +356,18 @@
     <MainItem>
       <Key>Ashforth</Key>
       <Text>R.D</Text>
-      <PageNumber>13243</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Ashley-Miller</Key>
-      <Forenames>M.</Forenames>
-      <PageNumber>13579</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>13243</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Ashley-Miller</Key>
+        <Forenames>M.</Forenames>
+        <PageNumber>13579</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Ashman</Key>
@@ -646,177 +648,179 @@
       <Key>Ayscough</Key>
       <Forenames>E.</Forenames>
       <Text>M.C</Text>
-      <PageNumber>15995</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Babington</Key>
-      <Forenames>D</Forenames>
-      <PageNumber>13583</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Babington-Smith</Key>
-      <Forenames>J.</Forenames>
-      <PageNumber>13248</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Backhouse</Key>
-      <Forenames>A. W.</Forenames>
-      <PageNumber>16685</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Backler</Key>
-      <Forenames>J.A.A.</Forenames>
-      <PageNumber>13573</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Badcock</Key>
-      <Forenames>J.M.W.</Forenames>
-      <PageNumber>15994</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Badcock</Key>
-      <Forenames>W.F.</Forenames>
-      <PageNumber>14270</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Badger</Key>
-      <Forenames>M.G.</Forenames>
-      <PageNumber>13233</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Badham</Key>
-      <Forenames>J.R</Forenames>
-      <PageNumber>14276</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Baggott</Key>
-      <Forenames>J.P</Forenames>
-      <PageNumber>15295</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bagshaw</Key>
-      <Forenames>I. M. M.</Forenames>
-      <PageNumber>13247</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bahadur</Key>
-      <Forenames>Rai</Forenames>
-      <PageNumber>14266</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Baier</Key>
-      <Forenames>D.P.S</Forenames>
-      <PageNumber>15624</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bailey</Key>
-      <Forenames>A. B</Forenames>
-      <PageNumber>16692</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bailey</Key>
-      <Forenames>H.B</Forenames>
-      <PageNumber>13241</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bailey</Key>
-      <Forenames>M</Forenames>
-      <PageNumber>13578</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bailey</Key>
-      <Forenames>R.D</Forenames>
-      <PageNumber>13240</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bailey</Key>
-      <Forenames>R.J</Forenames>
-      <PageNumber>16693</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bailey</Key>
-      <Forenames>S.J</Forenames>
-      <PageNumber>14275</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bailey</Key>
-      <Forenames>T</Forenames>
-      <PageNumber>13249</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bailey-Woods</Key>
-      <Forenames>G.</Forenames>
-      <PageNumber>14624</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bailie</Key>
-      <Forenames>G. A</Forenames>
-      <PageNumber>13580</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Baillie</Key>
-      <Forenames>J.A</Forenames>
-      <PageNumber>13244</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bainbridge</Key>
-      <Forenames>A. C.</Forenames>
-      <PageNumber>13253</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bainbridge</Key>
-      <Forenames>A. S.</Forenames>
-      <PageNumber>15992</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>15995</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Babington</Key>
+        <Forenames>D</Forenames>
+        <PageNumber>13583</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Babington-Smith</Key>
+        <Forenames>J.</Forenames>
+        <PageNumber>13248</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Backhouse</Key>
+        <Forenames>A. W.</Forenames>
+        <PageNumber>16685</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Backler</Key>
+        <Forenames>J.A.A.</Forenames>
+        <PageNumber>13573</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Badcock</Key>
+        <Forenames>J.M.W.</Forenames>
+        <PageNumber>15994</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Badcock</Key>
+        <Forenames>W.F.</Forenames>
+        <PageNumber>14270</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Badger</Key>
+        <Forenames>M.G.</Forenames>
+        <PageNumber>13233</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Badham</Key>
+        <Forenames>J.R</Forenames>
+        <PageNumber>14276</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Baggott</Key>
+        <Forenames>J.P</Forenames>
+        <PageNumber>15295</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bagshaw</Key>
+        <Forenames>I. M. M.</Forenames>
+        <PageNumber>13247</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bahadur</Key>
+        <Forenames>Rai</Forenames>
+        <PageNumber>14266</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Baier</Key>
+        <Forenames>D.P.S</Forenames>
+        <PageNumber>15624</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bailey</Key>
+        <Forenames>A. B</Forenames>
+        <PageNumber>16692</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bailey</Key>
+        <Forenames>H.B</Forenames>
+        <PageNumber>13241</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bailey</Key>
+        <Forenames>M</Forenames>
+        <PageNumber>13578</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bailey</Key>
+        <Forenames>R.D</Forenames>
+        <PageNumber>13240</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bailey</Key>
+        <Forenames>R.J</Forenames>
+        <PageNumber>16693</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bailey</Key>
+        <Forenames>S.J</Forenames>
+        <PageNumber>14275</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bailey</Key>
+        <Forenames>T</Forenames>
+        <PageNumber>13249</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bailey-Woods</Key>
+        <Forenames>G.</Forenames>
+        <PageNumber>14624</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bailie</Key>
+        <Forenames>G. A</Forenames>
+        <PageNumber>13580</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Baillie</Key>
+        <Forenames>J.A</Forenames>
+        <PageNumber>13244</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bainbridge</Key>
+        <Forenames>A. C.</Forenames>
+        <PageNumber>13253</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bainbridge</Key>
+        <Forenames>A. S.</Forenames>
+        <PageNumber>15992</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Bainbridge</Key>
@@ -1064,30 +1068,32 @@
       <Key>Barber</Key>
       <Forenames>J.</Forenames>
       <Text>M.C</Text>
-      <PageNumber>14620</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Barbone</Key>
-      <Forenames>A.W.</Forenames>
-      <PageNumber>14264</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Barclay</Key>
-      <Forenames>S.M</Forenames>
-      <PageNumber>13253</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Barden</Key>
-      <Forenames>A.R.</Forenames>
-      <PageNumber>13245</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>14620</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Barbone</Key>
+        <Forenames>A.W.</Forenames>
+        <PageNumber>14264</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Barclay</Key>
+        <Forenames>S.M</Forenames>
+        <PageNumber>13253</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Barden</Key>
+        <Forenames>A.R.</Forenames>
+        <PageNumber>13245</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Barfoot</Key>
@@ -1171,7 +1177,9 @@
     <MainItem>
       <Key>Barnard</Key>
       <Forenames>N.</Forenames>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>15627</PageNumber>
     </MainItem>
   </ItemGroup>

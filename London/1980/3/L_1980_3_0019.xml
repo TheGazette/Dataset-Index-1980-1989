@@ -771,8 +771,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gauvain</Key>
-      <Forenames>A.</Forenames>
-      <Text>de P</Text>
+      <Forenames>A. de P</Forenames>
       <PageNumber>9715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1084,8 +1083,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Glenarthur</Key>
-      <Forenames>The</Forenames>
-      <Text>Lord</Text>
+      <Title>The Lord</Title>
       <PageNumber>13315</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -302,8 +302,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Abbey</Key>
-      <Forenames>Road St</Forenames>
-      <Text>. John's Wood Co-ownership Housing Association, cancelling notice</Text>
+      <Forenames>Road St. John</Forenames>
+      <Text>'s Wood Co-ownership Housing Association, cancelling notice</Text>
       <PageNumber>6315</PageNumber>
     </MainItem>
   </ItemGroup>

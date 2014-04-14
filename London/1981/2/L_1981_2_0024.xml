@@ -324,7 +324,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>6579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +529,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Welch</Key>
-      <Text>K.G. ... B</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+      </Text>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,7 +761,9 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>6581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,7 +792,9 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>7499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -879,7 +887,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Whyte</Key>
-      <Text>L.G. ... B</Text>
+      <Text>
+        <Honour>L.G.</Honour>
+      </Text>
       <PageNumber>16</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1371,7 +1381,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>CH.... B</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>17</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1655,7 +1667,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>K.G</Text>
+      <Text>
+        <Honour>K.G</Honour>
+      </Text>
       <PageNumber>7517</PageNumber>
     </MainItem>
   </ItemGroup>

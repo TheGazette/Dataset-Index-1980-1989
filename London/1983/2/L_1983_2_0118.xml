@@ -2009,8 +2009,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greeves</Key>
-      <Forenames>J. A.</Forenames>
-      <Text>de M</Text>
+      <Forenames>J. A. de M</Forenames>
       <PageNumber>7894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2038,8 +2037,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grey</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. St. J</Forenames>
       <PageNumber>5304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2343,8 +2341,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>E. St. J</Forenames>
       <PageNumber>5305</PageNumber>
     </MainItem>
   </ItemGroup>

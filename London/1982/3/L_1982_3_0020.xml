@@ -1050,8 +1050,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Normanby</Key>
-      <Forenames>The</Forenames>
-      <Text>Marquis of</Text>
+      <Title>The Marquis</Title>
+      <Text>of</Text>
       <PageNumber>10135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1148,50 +1148,50 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Beirne, M. J</Text>
+      <Key>O'Beirne</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>11080</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, D. A</Text>
+      <Key>O'Brien</Key>
+      <Forenames>D. A.</Forenames>
       <PageNumber>9465</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, M</Text>
+      <Key>O'Brien</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>10134</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, J. V. E. F</Text>
+      <Key>O'Connell</Key>
+      <Forenames>J. V. E. F.</Forenames>
       <PageNumber>9458</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, M. J</Text>
+      <Key>O'Connell</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>9462</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, M. R</Text>
+      <Key>O'Connell</Key>
+      <Forenames>M. R.</Forenames>
       <PageNumber>9146</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, F. M</Text>
+      <Key>O'Connor</Key>
+      <Forenames>F. M.</Forenames>
       <PageNumber>11084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1211,15 +1211,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dowd, A. C</Text>
+      <Key>O'Dowd</Key>
+      <Forenames>A. C.</Forenames>
       <PageNumber>12550</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Down, A. C</Text>
+      <Key>O'Down</Key>
+      <Forenames>A. C.</Forenames>
       <PageNumber>10139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1239,15 +1239,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, D. I</Text>
+      <Key>O'Hara</Key>
+      <Forenames>D. I.</Forenames>
       <PageNumber>12550</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keefe, C</Text>
+      <Key>O'Keefe</Key>
+      <Forenames>C.</Forenames>
       <PageNumber>9146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1317,36 +1317,35 @@
   <ItemGroup>
     <MainItem>
       <Key>Oliver</Key>
-      <Forenames>S. W. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>S. W. St. J</Forenames>
       <PageNumber>12546</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, P</Text>
+      <Key>O'Malley</Key>
+      <Forenames>P.</Forenames>
       <PageNumber>9643</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, P. H. B</Text>
+      <Key>O'Meara</Key>
+      <Forenames>P. H. B.</Forenames>
       <PageNumber>9457</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, M. G</Text>
+      <Key>O'Neill</Key>
+      <Forenames>M. G.</Forenames>
       <PageNumber>12545</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, S. J</Text>
+      <Key>O'Neill</Key>
+      <Forenames>S. J.</Forenames>
       <PageNumber>10743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1380,8 +1379,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, C. S</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>C. S.</Forenames>
       <PageNumber>10141</PageNumber>
     </MainItem>
   </ItemGroup>

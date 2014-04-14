@@ -298,8 +298,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harold</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>13629</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -550,8 +550,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodhouse</Key>
-      <Forenames>H.</Forenames>
-      <Text>de C. J</Text>
+      <Forenames>H. de C</Forenames>
+      <Text>. J</Text>
       <PageNumber>2214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +622,9 @@
     <MainItem>
       <Key>Woods</Key>
       <Forenames>T. B.</Forenames>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>2219</PageNumber>
     </MainItem>
   </ItemGroup>

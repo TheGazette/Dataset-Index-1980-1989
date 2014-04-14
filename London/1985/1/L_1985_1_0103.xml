@@ -592,8 +592,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tobin</Key>
-      <Forenames>J. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>J. O'H</Forenames>
       <PageNumber>2366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1258,6 +1257,13 @@
       <Key>Vance</Key>
       <Forenames>W. G</Forenames>
       <PageNumber>515</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Warmelo</Key>
+      <Forenames>W.</Forenames>
+      <PageNumber>509</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

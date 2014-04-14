@@ -533,8 +533,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hanson</Key>
-      <Forenames>R.</Forenames>
-      <Text>de G</Text>
+      <Forenames>R. de G</Forenames>
       <PageNumber>4912</PageNumber>
       <PageNumber>6662</PageNumber>
     </MainItem>
@@ -1076,8 +1075,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawkins</Key>
-      <Forenames>P. C. St</Forenames>
-      <Text>. B</Text>
+      <Forenames>P. C. St. B</Forenames>
       <PageNumber>6942</PageNumber>
       <PageNumber>7232</PageNumber>
     </MainItem>
@@ -1498,8 +1496,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heyman</Key>
-      <Forenames>R. M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. M. St. J</Forenames>
       <PageNumber>4286</PageNumber>
     </MainItem>
   </ItemGroup>

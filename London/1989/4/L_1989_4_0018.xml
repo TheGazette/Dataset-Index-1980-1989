@@ -900,8 +900,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holmes</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>14347</PageNumber>
     </MainItem>
   </ItemGroup>

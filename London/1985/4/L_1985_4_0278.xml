@@ -1208,8 +1208,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ker</Key>
-      <Forenames>A. H.</Forenames>
-      <Text>de G</Text>
+      <Forenames>A. H. de G</Forenames>
       <PageNumber>15774</PageNumber>
     </MainItem>
   </ItemGroup>

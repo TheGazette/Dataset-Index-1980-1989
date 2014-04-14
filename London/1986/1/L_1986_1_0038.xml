@@ -1409,8 +1409,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J. P</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. P</Text>
       <PageNumber>558</PageNumber>
     </MainItem>
   </ItemGroup>

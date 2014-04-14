@@ -53,8 +53,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Forenames>M. S. O</Forenames>
-      <Text>'F</Text>
+      <Forenames>M. S. O'F</Forenames>
       <PageNumber>11080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1332,6 +1331,28 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Belder</Key>
+      <Forenames>C. G.</Forenames>
+      <PageNumber>11089</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Belder</Key>
+      <Forenames>M. J. K.</Forenames>
+      <PageNumber>12547</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Broe-Ferguson</Key>
+      <Forenames>E. N. de B</Forenames>
+      <Text>. de B</Text>
+      <PageNumber>9458</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dedow</Key>
       <Forenames>C. L.</Forenames>
       <PageNumber>10130</PageNumber>
@@ -1339,9 +1360,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Fonblanque</Forenames>
-      <Text>, H. B</Text>
+      <Key>De Fonblanque</Key>
+      <Forenames>H. B.</Forenames>
       <PageNumber>9458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1462,6 +1482,20 @@
       <Key>Derrick</Key>
       <Forenames>M. J.</Forenames>
       <PageNumber>10742</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Souza</Key>
+      <Forenames>T. P.</Forenames>
+      <PageNumber>11088</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Torre</Key>
+      <Forenames>M. E.</Forenames>
+      <PageNumber>11090</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2070,9 +2104,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Rose</Forenames>
-      <Text>, G. J</Text>
+      <Key>Du Rose</Key>
+      <Forenames>G. J.</Forenames>
       <PageNumber>9466</PageNumber>
     </MainItem>
   </ItemGroup>

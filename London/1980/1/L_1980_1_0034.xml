@@ -256,8 +256,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pickard</Key>
-      <Forenames>M.</Forenames>
-      <Text>de B</Text>
+      <Forenames>M. de B</Forenames>
       <PageNumber>3030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -890,8 +889,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prichard</Key>
-      <Forenames>W.</Forenames>
-      <Text>de B</Text>
+      <Forenames>W. de B</Forenames>
       <PageNumber>3026</PageNumber>
     </MainItem>
   </ItemGroup>

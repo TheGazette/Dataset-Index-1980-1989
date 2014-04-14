@@ -654,8 +654,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawkins</Key>
-      <Forenames>P. C. St</Forenames>
-      <Text>. B</Text>
+      <Forenames>P. C. St. B</Forenames>
       <PageNumber>11634</PageNumber>
     </MainItem>
   </ItemGroup>

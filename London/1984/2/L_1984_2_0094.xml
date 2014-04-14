@@ -213,8 +213,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gauvain</Key>
-      <Forenames>A.</Forenames>
-      <Text>de P</Text>
+      <Forenames>A. de P</Forenames>
       <PageNumber>5590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,8 +405,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, P. M. J</Text>
+      <Key>O'Brien</Key>
+      <Forenames>P. M. J.</Forenames>
       <PageNumber>5590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1764,8 +1763,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barker</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>G. St. J</Forenames>
       <PageNumber>6801</PageNumber>
     </MainItem>
   </ItemGroup>

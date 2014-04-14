@@ -1736,8 +1736,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunders</Key>
-      <Forenames>P. N. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>P. N. St. J</Forenames>
       <PageNumber>817</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -407,7 +407,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>G.C. A</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>12947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,8 +931,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomson</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>B. St. C</Forenames>
       <PageNumber>12946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1030,7 +1031,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorpe</Key>
-      <Text>K.T</Text>
+      <Text>
+        <Honour>K.T</Honour>
+      </Text>
       <PageNumber>15162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1996,8 +1999,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Den Berg</Forenames>
+      <Key>Van Den</Key>
+      <Forenames>Berg</Forenames>
       <Text>, G. G.S</Text>
       <PageNumber>13572</PageNumber>
     </MainItem>
@@ -2251,7 +2254,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Voisey</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>14505</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1150,7 +1150,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Uwis</Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>1082</PageNumber>
       <PageNumber>2477</PageNumber>
       <PageNumber>2478</PageNumber>
@@ -1763,8 +1765,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lytle</Key>
-      <Forenames>S. W. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>S. W. St. J</Forenames>
       <PageNumber>449</PageNumber>
     </MainItem>
   </ItemGroup>

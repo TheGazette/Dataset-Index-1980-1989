@@ -73,8 +73,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnetson</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. St. C</Forenames>
       <PageNumber>2095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2024,8 +2023,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bromhead</Key>
-      <Forenames>D.</Forenames>
-      <Text>de G</Text>
+      <Forenames>D. de G</Forenames>
       <PageNumber>686</PageNumber>
     </MainItem>
   </ItemGroup>

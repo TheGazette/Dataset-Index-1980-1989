@@ -607,8 +607,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beaumont</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J. M</Text>
+      <Forenames>P. St. J</Forenames>
+      <Text>. M</Text>
       <PageNumber>3559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -734,8 +734,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>B. St. J</Forenames>
       <PageNumber>451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1799,8 +1798,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Breakwell</Key>
-      <Forenames>O. R. St</Forenames>
-      <Text>. S</Text>
+      <Forenames>O. R. St. S</Forenames>
       <PageNumber>450</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1719,25 +1719,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, C. J</Text>
+      <Key>St. John</Key>
+      <Forenames>C. J.</Forenames>
       <PageNumber>10742</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, M. D</Text>
+      <Key>St. John</Key>
+      <Forenames>M. D.</Forenames>
       <PageNumber>12020</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John-Crees</Forenames>
-      <Text>, D</Text>
+      <Key>St. John-Crees</Key>
+      <Forenames>D.</Forenames>
       <PageNumber>11699</PageNumber>
     </MainItem>
   </ItemGroup>

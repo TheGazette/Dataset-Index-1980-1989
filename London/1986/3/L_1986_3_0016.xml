@@ -1681,8 +1681,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hurley</Key>
-      <Forenames>I. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>I. St. P</Forenames>
       <PageNumber>9342</PageNumber>
     </MainItem>
   </ItemGroup>

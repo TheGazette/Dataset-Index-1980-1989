@@ -2263,7 +2263,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Burns</Key>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>6624</PageNumber>
     </MainItem>
   </ItemGroup>

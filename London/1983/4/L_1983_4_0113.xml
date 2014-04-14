@@ -10,6 +10,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Normann</Key>
+      <Forenames>A. L.</Forenames>
+      <PageNumber>14703</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dent</Key>
       <Forenames>J. H</Forenames>
       <PageNumber>15050</PageNumber>
@@ -24,9 +31,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pentheny O</Forenames>
-      <Text>'Kelly, H. P</Text>
+      <Key>De Pentheny</Key>
+      <Forenames>O'Kelly</Forenames>
+      <Text>, H. P</Text>
       <PageNumber>15398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1453,8 +1460,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>G. St. J</Forenames>
       <PageNumber>12944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2000,16 +2006,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Filler</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>P. St. J</Forenames>
       <PageNumber>13645</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Filsell</Key>
-      <Forenames>A. M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. M. St. J</Forenames>
       <PageNumber>13652</PageNumber>
     </MainItem>
   </ItemGroup>

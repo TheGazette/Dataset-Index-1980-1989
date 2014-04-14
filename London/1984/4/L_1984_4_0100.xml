@@ -615,8 +615,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corrin</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. St. J</Forenames>
       <PageNumber>13620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1914,6 +1913,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>Milne</Forenames>
+      <Text>, D. C. L</Text>
+      <PageNumber>13948</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dedman</Key>
       <Forenames>N. J. P.</Forenames>
       <PageNumber>14616</PageNumber>
@@ -1943,9 +1950,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Margary</Forenames>
-      <Text>, G. D. M</Text>
+      <Key>De Margary</Key>
+      <Forenames>G. D. M.</Forenames>
       <PageNumber>14270</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2007,8 +2013,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Planta De Wildenberg</Forenames>
+      <Key>De Planta</Key>
+      <Forenames>De Wildenberg</Forenames>
       <Text>, F. M. G</Text>
       <PageNumber>16764</PageNumber>
     </MainItem>
@@ -2037,6 +2043,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Stacpoole</Key>
+      <Forenames>D. H. O.</Forenames>
+      <PageNumber>13948</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deuxberry</Key>
       <Forenames>H. P. J.</Forenames>
       <PageNumber>13301</PageNumber>
@@ -2054,6 +2067,13 @@
       <Key>Devereux</Key>
       <Forenames>P.</Forenames>
       <PageNumber>15324</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ville</Key>
+      <Forenames>P. S.</Forenames>
+      <PageNumber>16027</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

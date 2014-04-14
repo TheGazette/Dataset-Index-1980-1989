@@ -2225,10 +2225,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bromhead</Forenames>
-      <Text>, M. J</Text>
+      <Key>De Bromhead</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>2242</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Carteret</Key>
+      <Forenames>M. A.</Forenames>
+      <PageNumber>3777</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2341,6 +2347,13 @@
       <Key>Derricutt</Key>
       <Forenames>J. C.</Forenames>
       <PageNumber>3769</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salis</Key>
+      <Forenames>N. C. F.</Forenames>
+      <PageNumber>4578</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

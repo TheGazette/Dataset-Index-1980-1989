@@ -1127,8 +1127,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fry</Key>
-      <Forenames>A. A. St</Forenames>
-      <Text>. Q</Text>
+      <Forenames>A. A. St. Q</Forenames>
       <PageNumber>5614</PageNumber>
     </MainItem>
   </ItemGroup>

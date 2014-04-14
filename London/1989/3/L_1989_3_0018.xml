@@ -1091,7 +1091,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelly</Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>9445</PageNumber>
     </MainItem>
   </ItemGroup>

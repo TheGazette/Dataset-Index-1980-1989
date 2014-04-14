@@ -131,8 +131,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bury</Key>
-      <Title>St.</Title>
-      <Forenames>Edmunds Building Society</Forenames>
+      <Forenames>St. Edmunds Building Society</Forenames>
       <Text>, transfer notice</Text>
       <PageNumber>10843</PageNumber>
     </MainItem>
@@ -445,7 +444,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Deed</Key>
-      <Text>of Arrangement: Grogan, E. M. and R. J. Maidment t/a G.M. A. International</Text>
+      <Text>
+        <Honour>G.M.</Honour>
+      </Text>
       <PageNumber>8536</PageNumber>
     </MainItem>
   </ItemGroup>

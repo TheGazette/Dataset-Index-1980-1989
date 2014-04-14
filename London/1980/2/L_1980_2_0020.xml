@@ -899,7 +899,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brzezicki</Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>5967</PageNumber>
     </MainItem>
   </ItemGroup>

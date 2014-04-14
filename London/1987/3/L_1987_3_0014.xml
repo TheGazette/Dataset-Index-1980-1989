@@ -674,7 +674,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashpole</Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>10452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -794,7 +796,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>10176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1643,81 +1647,82 @@
     <MainItem>
       <Key>Barwell</Key>
       <Text>R.D</Text>
-      <PageNumber>10453</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Barwick</Key>
-      <Forenames>G.P</Forenames>
-      <PageNumber>11454</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Basantkumar</Key>
-      <Title>Rai.</Title>
-      <PageNumber>12054</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bascombe</Key>
-      <Forenames>A. J.</Forenames>
-      <PageNumber>9878</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Basham</Key>
-      <Forenames>A. A.G.</Forenames>
-      <PageNumber>9571</PageNumber>
-      <PageNumber>11733</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Basnett</Key>
-      <Forenames>C</Forenames>
-      <PageNumber>11206</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bassett</Key>
-      <Forenames>J</Forenames>
-      <PageNumber>8659</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bassett</Key>
-      <Forenames>J.M.O</Forenames>
-      <Text>'R</Text>
-      <PageNumber>12061</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bastable</Key>
-      <Forenames>A. W.R.</Forenames>
-      <PageNumber>8663</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Baston</Key>
-      <Forenames>D.E.P.</Forenames>
-      <PageNumber>11729</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Batchelor</Key>
-      <Forenames>L. H.L.</Forenames>
-      <PageNumber>11727</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>10453</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Barwick</Key>
+        <Forenames>G.P</Forenames>
+        <PageNumber>11454</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Basantkumar</Key>
+        <Title>Rai.</Title>
+        <PageNumber>12054</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bascombe</Key>
+        <Forenames>A. J.</Forenames>
+        <PageNumber>9878</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Basham</Key>
+        <Forenames>A. A.G.</Forenames>
+        <PageNumber>9571</PageNumber>
+        <PageNumber>11733</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Basnett</Key>
+        <Forenames>C</Forenames>
+        <PageNumber>11206</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bassett</Key>
+        <Forenames>J</Forenames>
+        <PageNumber>8659</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bassett</Key>
+        <Forenames>J.M.O'R</Forenames>
+        <PageNumber>12061</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bastable</Key>
+        <Forenames>A. W.R.</Forenames>
+        <PageNumber>8663</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Baston</Key>
+        <Forenames>D.E.P.</Forenames>
+        <PageNumber>11729</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Batchelor</Key>
+        <Forenames>L. H.L.</Forenames>
+        <PageNumber>11727</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Batchelor</Key>
@@ -2373,7 +2378,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Berger</Key>
-      <Text>M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>9569</PageNumber>
     </MainItem>
   </ItemGroup>

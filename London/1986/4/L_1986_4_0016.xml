@@ -17,8 +17,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidson-Houston</Key>
-      <Forenames>P. E. O</Forenames>
-      <Text>'R</Text>
+      <Forenames>P. E. O'R</Forenames>
       <PageNumber>12947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,6 +610,13 @@
       <Key>Desmond</Key>
       <Forenames>A. J</Forenames>
       <PageNumber>15162</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Tscharner-Vischer</Key>
+      <Forenames>N. J.</Forenames>
+      <PageNumber>13569</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2058,7 +2064,9 @@
   <ItemGroup>
     <MainItem>
       <Key>EIlison-Nash</Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>14187</PageNumber>
     </MainItem>
   </ItemGroup>

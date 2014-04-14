@@ -506,79 +506,81 @@
     <MainItem>
       <Key>Brown</Key>
       <Text>V.C</Text>
-      <PageNumber>13876</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Brown</Key>
-      <Forenames>W.J</Forenames>
-      <PageNumber>15540</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Brownbridge</Key>
-      <Forenames>L.M.</Forenames>
-      <PageNumber>14186</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Browning</Key>
-      <Forenames>M.L.C</Forenames>
-      <PageNumber>15153</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Browning</Key>
-      <Forenames>R.J</Forenames>
-      <PageNumber>16224</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Brownlee</Key>
-      <Forenames>L.D</Forenames>
-      <PageNumber>12951</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Brownlie</Key>
-      <Forenames>N</Forenames>
-      <PageNumber>14820</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Brownson</Key>
-      <Forenames>D</Forenames>
-      <PageNumber>14502</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bruce</Key>
-      <Forenames>D.S</Forenames>
-      <PageNumber>13569</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bruce</Key>
-      <Forenames>L</Forenames>
-      <PageNumber>14514</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bruce</Key>
-      <Forenames>R.B</Forenames>
-      <PageNumber>14183</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>13876</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Brown</Key>
+        <Forenames>W.J</Forenames>
+        <PageNumber>15540</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Brownbridge</Key>
+        <Forenames>L.M.</Forenames>
+        <PageNumber>14186</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Browning</Key>
+        <Forenames>M.L.C</Forenames>
+        <PageNumber>15153</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Browning</Key>
+        <Forenames>R.J</Forenames>
+        <PageNumber>16224</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Brownlee</Key>
+        <Forenames>L.D</Forenames>
+        <PageNumber>12951</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Brownlie</Key>
+        <Forenames>N</Forenames>
+        <PageNumber>14820</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Brownson</Key>
+        <Forenames>D</Forenames>
+        <PageNumber>14502</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bruce</Key>
+        <Forenames>D.S</Forenames>
+        <PageNumber>13569</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bruce</Key>
+        <Forenames>L</Forenames>
+        <PageNumber>14514</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Bruce</Key>
+        <Forenames>R.B</Forenames>
+        <PageNumber>14183</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Bruce</Key>
@@ -1832,8 +1834,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Forenames>S. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>S. St. C</Forenames>
       <PageNumber>14510</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -730,8 +730,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J. P</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. P</Text>
       <PageNumber>11689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1107,8 +1107,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harper</Key>
-      <Forenames>R. W.</Forenames>
-      <Text>de L</Text>
+      <Forenames>R. W. de L</Forenames>
       <PageNumber>11684</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -2321,7 +2321,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Danvers</Key>
-      <Text>CH.D</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>14502</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1260,8 +1260,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kilmister</Key>
-      <Forenames>J. C.St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. C.St. J</Forenames>
       <PageNumber>13955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2086,8 +2085,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawson</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>N. St. J</Forenames>
       <PageNumber>13958</PageNumber>
     </MainItem>
   </ItemGroup>

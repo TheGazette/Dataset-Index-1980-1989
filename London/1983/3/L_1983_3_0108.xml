@@ -1241,8 +1241,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cranfield</Key>
-      <Forenames>J. T. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>J. T. O'B</Forenames>
       <PageNumber>10184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2394,9 +2393,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bankes</Forenames>
-      <Text>, P. C. N</Text>
+      <Key>De Bankes</Key>
+      <Forenames>P. C. N.</Forenames>
       <PageNumber>10535</PageNumber>
     </MainItem>
   </ItemGroup>

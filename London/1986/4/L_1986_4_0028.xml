@@ -1467,8 +1467,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkes</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. St. J</Forenames>
       <PageNumber>12942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1956,7 +1955,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>14823</PageNumber>
     </MainItem>
   </ItemGroup>

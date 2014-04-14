@@ -2186,8 +2186,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunter</Key>
-      <Forenames>A. J.</Forenames>
-      <Text>de C</Text>
+      <Forenames>A. J. de C</Forenames>
       <PageNumber>2212</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -600,7 +600,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidson</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>8972</PageNumber>
       <PageNumber>11743</PageNumber>
     </MainItem>
@@ -866,8 +868,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daws</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>9578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -973,7 +974,9 @@
     <MainItem>
       <Key>Deacon</Key>
       <Forenames>J.</Forenames>
-      <Text>L.G</Text>
+      <Text>
+        <Honour>L.G</Honour>
+      </Text>
       <PageNumber>10455</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1072,8 +1075,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Pasture</Forenames>
+      <Key>De La</Key>
+      <Forenames>Pasture</Forenames>
       <Text>, J.H</Text>
       <PageNumber>10972</PageNumber>
     </MainItem>

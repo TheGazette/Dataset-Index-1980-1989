@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Oain</Key>
-      <Text>T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>15996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -978,156 +980,158 @@
     <MainItem>
       <Key>Chase</Key>
       <Text>M.D</Text>
-      <PageNumber>13255</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Chattington</Key>
-      <Forenames>E. C.</Forenames>
-      <PageNumber>15999</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Chatwin</Key>
-      <Forenames>N. J.</Forenames>
-      <PageNumber>13232</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Chedham</Key>
-      <Forenames>F. J.</Forenames>
-      <PageNumber>13580</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Chee</Key>
-      <Text>C.H</Text>
-      <PageNumber>15628</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Cheesman</Key>
-      <Forenames>R. J.</Forenames>
-      <PageNumber>14267</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Cheetham</Key>
-      <Forenames>R. G.</Forenames>
-      <PageNumber>15991</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Chenneour</Key>
-      <Forenames>A.</Forenames>
-      <PageNumber>14265</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Cherry</Key>
-      <Forenames>A.F.</Forenames>
-      <PageNumber>13576</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Chester</Key>
-      <Forenames>D. E.</Forenames>
-      <PageNumber>13921</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Chesterton</Key>
-      <Forenames>G. H.</Forenames>
-      <PageNumber>16000</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Chetwynd</Key>
-      <Forenames>M. C.</Forenames>
-      <PageNumber>13581</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Chichester</Key>
-      <Forenames>M. A. R.</Forenames>
-      <PageNumber>16686</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Chick</Key>
-      <Forenames>D.A.</Forenames>
-      <PageNumber>13920</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Chilcott</Key>
-      <Forenames>G. F. J.</Forenames>
-      <PageNumber>13585</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Chilcott</Key>
-      <Forenames>L. V. G.</Forenames>
-      <PageNumber>14275</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Chilcott</Key>
-      <Forenames>S. W.</Forenames>
-      <PageNumber>15622</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Child</Key>
-      <Forenames>D.V.</Forenames>
-      <PageNumber>13233</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Child</Key>
-      <Forenames>T.J.</Forenames>
-      <PageNumber>13233</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Chinn</Key>
-      <Forenames>R. E.</Forenames>
-      <PageNumber>13235</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Chipp</Key>
-      <Forenames>D.</Forenames>
-      <PageNumber>14271</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Chisholm</Key>
-      <Forenames>S. M.</Forenames>
-      <PageNumber>16696</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>13255</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Chattington</Key>
+        <Forenames>E. C.</Forenames>
+        <PageNumber>15999</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Chatwin</Key>
+        <Forenames>N. J.</Forenames>
+        <PageNumber>13232</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Chedham</Key>
+        <Forenames>F. J.</Forenames>
+        <PageNumber>13580</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Chee</Key>
+        <Text>C.H</Text>
+        <PageNumber>15628</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Cheesman</Key>
+        <Forenames>R. J.</Forenames>
+        <PageNumber>14267</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Cheetham</Key>
+        <Forenames>R. G.</Forenames>
+        <PageNumber>15991</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Chenneour</Key>
+        <Forenames>A.</Forenames>
+        <PageNumber>14265</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Cherry</Key>
+        <Forenames>A.F.</Forenames>
+        <PageNumber>13576</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Chester</Key>
+        <Forenames>D. E.</Forenames>
+        <PageNumber>13921</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Chesterton</Key>
+        <Forenames>G. H.</Forenames>
+        <PageNumber>16000</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Chetwynd</Key>
+        <Forenames>M. C.</Forenames>
+        <PageNumber>13581</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Chichester</Key>
+        <Forenames>M. A. R.</Forenames>
+        <PageNumber>16686</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Chick</Key>
+        <Forenames>D.A.</Forenames>
+        <PageNumber>13920</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Chilcott</Key>
+        <Forenames>G. F. J.</Forenames>
+        <PageNumber>13585</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Chilcott</Key>
+        <Forenames>L. V. G.</Forenames>
+        <PageNumber>14275</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Chilcott</Key>
+        <Forenames>S. W.</Forenames>
+        <PageNumber>15622</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Child</Key>
+        <Forenames>D.V.</Forenames>
+        <PageNumber>13233</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Child</Key>
+        <Forenames>T.J.</Forenames>
+        <PageNumber>13233</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Chinn</Key>
+        <Forenames>R. E.</Forenames>
+        <PageNumber>13235</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Chipp</Key>
+        <Forenames>D.</Forenames>
+        <PageNumber>14271</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Chisholm</Key>
+        <Forenames>S. M.</Forenames>
+        <PageNumber>16696</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Chitty</Key>
@@ -1538,7 +1542,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Clifford</Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>12909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1828,7 +1834,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>13575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1983,7 +1991,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Condliff</Key>
-      <Text>T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>12909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2019,37 +2029,39 @@
     <MainItem>
       <Key>Conroy</Key>
       <Text>M.D</Text>
-      <PageNumber>13247</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Constable</Key>
-      <Forenames>J. E.</Forenames>
-      <PageNumber>15296</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Constant</Key>
-      <Forenames>D.J.</Forenames>
-      <PageNumber>15992</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Constantine</Key>
-      <Forenames>C. A.</Forenames>
-      <PageNumber>13236</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Conway</Key>
-      <Forenames>A. L.</Forenames>
-      <PageNumber>15626</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>13247</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Constable</Key>
+        <Forenames>J. E.</Forenames>
+        <PageNumber>15296</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Constant</Key>
+        <Forenames>D.J.</Forenames>
+        <PageNumber>15992</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Constantine</Key>
+        <Forenames>C. A.</Forenames>
+        <PageNumber>13236</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Conway</Key>
+        <Forenames>A. L.</Forenames>
+        <PageNumber>15626</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Conway</Key>

@@ -84,8 +84,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnes</Key>
-      <Title>St.</Title>
-      <Forenames>Mary</Forenames>
+      <Forenames>St. Mary</Forenames>
       <Text>, petition for a Faculty</Text>
       <PageNumber>8043</PageNumber>
     </MainItem>

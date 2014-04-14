@@ -198,29 +198,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, J. A</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J. A.</Forenames>
       <PageNumber>9156</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, I. J</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>I. J.</Forenames>
       <PageNumber>9606</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, T</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>T.</Forenames>
       <PageNumber>9156</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Fee, J. D</Text>
+      <Key>O'Fee</Key>
+      <Forenames>J. D.</Forenames>
       <PageNumber>9155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,15 +261,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, C</Text>
+      <Key>O'Neill</Key>
+      <Forenames>C</Forenames>
       <PageNumber>9305</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, P. M</Text>
+      <Key>O'Neill</Key>
+      <Forenames>P. M.</Forenames>
       <PageNumber>11701</PageNumber>
     </MainItem>
   </ItemGroup>

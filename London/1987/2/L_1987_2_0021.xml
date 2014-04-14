@@ -841,7 +841,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grantham</Key>
-      <Forenames>V. S. De S.</Forenames>
+      <Forenames>V. S. De S</Forenames>
       <PageNumber>7990</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1778,8 +1778,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hanna</Key>
-      <Forenames>L.O</Forenames>
-      <Text>'B</Text>
+      <Forenames>L.O'B</Forenames>
       <PageNumber>8359</PageNumber>
     </MainItem>
   </ItemGroup>

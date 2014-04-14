@@ -870,8 +870,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Durham</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J. L</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. L</Text>
       <PageNumber>7805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1252,7 +1252,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Text>K.T</Text>
+      <Text>
+        <Honour>K.T</Honour>
+      </Text>
       <PageNumber>9178</PageNumber>
     </MainItem>
   </ItemGroup>

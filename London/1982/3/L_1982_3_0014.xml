@@ -1145,8 +1145,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cameron</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>N. St. C</Forenames>
       <PageNumber>9810</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1296,8 +1296,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jenkin</Key>
-      <Forenames>J. R. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>J. R. St. L</Forenames>
       <PageNumber>2365</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -2431,9 +2431,11 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair-Butler</Forenames>
-      <Text>, J. M.D</Text>
+      <Key>St. Clair-Butler</Key>
+      <Forenames>J.</Forenames>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>1189</PageNumber>
     </MainItem>
   </ItemGroup>

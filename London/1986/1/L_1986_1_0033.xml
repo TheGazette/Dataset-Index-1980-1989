@@ -9,8 +9,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, S. J</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>S. J</Forenames>
       <PageNumber>425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1053,7 +1053,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Badcock</Key>
-      <Text>PC</Text>
+      <Text>
+        <Honour>PC</Honour>
+      </Text>
       <PageNumber>563</PageNumber>
     </MainItem>
   </ItemGroup>

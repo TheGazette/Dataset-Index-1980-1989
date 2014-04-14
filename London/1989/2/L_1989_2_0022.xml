@@ -2262,8 +2262,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burnet</Key>
-      <Forenames>R.J.</Forenames>
-      <Text>de J</Text>
+      <Forenames>R.J. de J</Forenames>
       <PageNumber>4291</PageNumber>
     </MainItem>
   </ItemGroup>

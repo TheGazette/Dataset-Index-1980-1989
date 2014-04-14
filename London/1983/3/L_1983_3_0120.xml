@@ -262,7 +262,9 @@
   <ItemGroup>
     <MainItem>
       <Key>C</Key>
-      <Text>H. Industries, Rights Issue</Text>
+      <Text>
+        <Honour>H.</Honour>
+      </Text>
       <PageNumber>12645</PageNumber>
     </MainItem>
   </ItemGroup>

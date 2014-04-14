@@ -216,24 +216,24 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Fosse</Forenames>
+      <Key>De La</Key>
+      <Forenames>Fosse</Forenames>
       <Text>, T. A</Text>
       <PageNumber>2497</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Fuente</Forenames>
+      <Key>De La</Key>
+      <Forenames>Fuente</Forenames>
       <Text>, C</Text>
       <PageNumber>615</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Motte Hervey</Forenames>
+      <Key>De La</Key>
+      <Forenames>Motte Hervey</Forenames>
       <Text>, M. S. F</Text>
       <PageNumber>1565</PageNumber>
       <PageNumber>3492</PageNumber>
@@ -244,6 +244,14 @@
       <Key>deLaszlo</Key>
       <Forenames>D. P</Forenames>
       <PageNumber>2502</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Verteuil</Key>
+      <Forenames>J. A.</Forenames>
+      <PageNumber>2180</PageNumber>
+      <PageNumber>3189</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -939,9 +947,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Vivier</Forenames>
-      <Text>, P. E</Text>
+      <Key>Du Vivier</Key>
+      <Forenames>P. E</Forenames>
       <PageNumber>325</PageNumber>
     </MainItem>
   </ItemGroup>

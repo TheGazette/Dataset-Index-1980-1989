@@ -2,22 +2,22 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="031" pageID="https://www.thegazette.co.uk/id/London/index/year/1982/volume/2/page/031" pagePDF="https://www.thegazette.co.uk/London/index/year/1982/volume/2/page/031" pageRDF="https://www.thegazette.co.uk/London/index/year/1982/volume/2/page/031?view=linked-data" type="index" volume="2" year="1982">
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, B. P</Text>
+      <Key>O'Connor</Key>
+      <Forenames>B. P.</Forenames>
       <PageNumber>8222</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, M. C</Text>
+      <Key>O'Connor</Key>
+      <Forenames>M. C.</Forenames>
       <PageNumber>8220</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, M. C</Text>
+      <Key>O'Donoghue</Key>
+      <Forenames>M. C.</Forenames>
       <PageNumber>8223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -30,29 +30,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, M. L</Text>
+      <Key>O'Hagan</Key>
+      <Forenames>M. L.</Forenames>
       <PageNumber>6928</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, B</Text>
+      <Key>O'Hara</Key>
+      <Forenames>B</Forenames>
       <PageNumber>5652</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, D. I</Text>
+      <Key>O'Hara</Key>
+      <Forenames>D. I.</Forenames>
       <PageNumber>7226</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kane, M. B</Text>
+      <Key>O'Kane</Key>
+      <Forenames>M. B.</Forenames>
       <PageNumber>6291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,8 +65,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kill, R. A</Text>
+      <Key>O'Kill</Key>
+      <Forenames>R. A.</Forenames>
       <PageNumber>5648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,8 +86,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, T. D</Text>
+      <Key>O'Leary</Key>
+      <Forenames>T. D.</Forenames>
       <PageNumber>7225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,15 +149,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neil Donnellon, P. P</Text>
+      <Key>O'Neil</Key>
+      <Forenames>Donnellon</Forenames>
+      <Text>, P. P</Text>
       <PageNumber>5653</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, T. M</Text>
+      <Key>O'Neill</Key>
+      <Forenames>T. M.</Forenames>
       <PageNumber>5652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,8 +185,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, F. T</Text>
+      <Key>O'Riordan</Key>
+      <Forenames>F. T.</Forenames>
       <PageNumber>7222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,8 +199,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, C. H</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>C. H.</Forenames>
       <PageNumber>5963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,8 +234,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, J. F</Text>
+      <Key>O'Shea</Key>
+      <Forenames>J. F.</Forenames>
       <PageNumber>4748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,8 +418,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Palmer</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. St. J</Forenames>
       <PageNumber>8534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1797,8 +1797,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prichard</Key>
-      <Forenames>W.</Forenames>
-      <Text>de B</Text>
+      <Forenames>W. de B</Forenames>
       <PageNumber>6289</PageNumber>
     </MainItem>
   </ItemGroup>

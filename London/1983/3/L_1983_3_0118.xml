@@ -1920,8 +1920,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Horst</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Horst</Forenames>
       <Text>, R. C</Text>
       <PageNumber>8822</PageNumber>
     </MainItem>

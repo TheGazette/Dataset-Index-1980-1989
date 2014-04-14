@@ -1440,8 +1440,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bury</Key>
-      <Title>St.</Title>
-      <Forenames>Edmunds Building Society</Forenames>
+      <Forenames>St. Edmunds Building Society</Forenames>
       <Text>, cancelling notice</Text>
       <PageNumber>14420</PageNumber>
     </MainItem>

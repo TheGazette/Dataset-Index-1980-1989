@@ -1164,8 +1164,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Forenames>S. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>S. St. M</Forenames>
       <PageNumber>14346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2394,8 +2393,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nash</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>13733</PageNumber>
     </MainItem>
   </ItemGroup>

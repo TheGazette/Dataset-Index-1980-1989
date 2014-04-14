@@ -616,8 +616,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewett</Key>
-      <Forenames>M. M. P. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>M. M. P. O'C</Forenames>
       <PageNumber>14780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -659,8 +658,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heyman</Key>
-      <Forenames>R. M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. M. St. J</Forenames>
       <PageNumber>15609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1255,8 +1253,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holden</Key>
-      <Forenames>P. S. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>P. S. St. C</Forenames>
       <PageNumber>12387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1452,8 +1449,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Homer</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>15762</PageNumber>
     </MainItem>
   </ItemGroup>

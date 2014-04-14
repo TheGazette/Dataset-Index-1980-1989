@@ -1968,8 +1968,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>G. St. J</Forenames>
       <PageNumber>7687</PageNumber>
       <PageNumber>9014</PageNumber>
     </MainItem>
@@ -2161,7 +2160,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Everett</Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>8452</PageNumber>
     </MainItem>
   </ItemGroup>

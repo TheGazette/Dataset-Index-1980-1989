@@ -734,18 +734,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Basto</Forenames>
-      <Text>, R. J. C</Text>
+      <Key>De Basto</Key>
+      <Forenames>R. J. C</Forenames>
       <PageNumber>13730</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Buisseret</Forenames>
-      <Text>, A</Text>
+      <Key>De Buisseret</Key>
+      <Forenames>A</Forenames>
       <PageNumber>14350</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salis</Key>
+      <Forenames>P. J. F</Forenames>
+      <PageNumber>13431</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

@@ -831,10 +831,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bourcier</Forenames>
-      <Text>, P. G</Text>
+      <Key>de Belder</Key>
+      <Forenames>M. J. K.</Forenames>
+      <PageNumber>12324</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Bourcier</Key>
+      <Forenames>P. G.</Forenames>
       <PageNumber>9309</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Boyer</Key>
+      <Forenames>J. P.</Forenames>
+      <PageNumber>10375</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -924,6 +937,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Normann</Key>
+      <Forenames>J. R. C.</Forenames>
+      <PageNumber>10650</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dent</Key>
       <Forenames>C. J.</Forenames>
       <PageNumber>11686</PageNumber>
@@ -946,9 +966,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, T. W. F</Text>
+      <Key>De Salis</Key>
+      <Forenames>T. W. F.</Forenames>
       <PageNumber>9597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -983,17 +1002,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Westenholz</Forenames>
-      <Text>, C. P. P</Text>
+      <Key>De Westenholz</Key>
+      <Forenames>C. P. P</Forenames>
       <PageNumber>9293</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wolf</Forenames>
-      <Text>, S. G</Text>
+      <Key>De Wolf</Key>
+      <Forenames>S. G.</Forenames>
       <PageNumber>9301</PageNumber>
     </MainItem>
   </ItemGroup>

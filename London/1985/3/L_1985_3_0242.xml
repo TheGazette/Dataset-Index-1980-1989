@@ -1065,7 +1065,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Leonard</Key>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>11765</PageNumber>
     </MainItem>
   </ItemGroup>

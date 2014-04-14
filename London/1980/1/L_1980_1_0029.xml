@@ -608,8 +608,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harper</Key>
-      <Forenames>R. W.</Forenames>
-      <Text>de L</Text>
+      <Forenames>R. W. de L</Forenames>
       <PageNumber>3026</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,8 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnetson</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. St. C</Forenames>
       <PageNumber>2796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,8 +193,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bassett</Key>
-      <Forenames>J. M. O</Forenames>
-      <Text>'R</Text>
+      <Forenames>J. M. O'R</Forenames>
       <PageNumber>2797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1473,8 +1471,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bodington</Key>
-      <Forenames>R. H. W. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>R. H. W. St. G</Forenames>
       <PageNumber>1490</PageNumber>
     </MainItem>
   </ItemGroup>

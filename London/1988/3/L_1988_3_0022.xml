@@ -18,8 +18,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelton</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>J. St. G</Forenames>
       <PageNumber>10051</PageNumber>
     </MainItem>
   </ItemGroup>

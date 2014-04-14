@@ -1593,8 +1593,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beauclerk-Dewar</Key>
-      <Forenames>P.</Forenames>
-      <Text>de V</Text>
+      <Forenames>P. de V</Forenames>
       <PageNumber>15270</PageNumber>
     </MainItem>
   </ItemGroup>

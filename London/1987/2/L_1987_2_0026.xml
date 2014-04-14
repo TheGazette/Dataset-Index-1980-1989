@@ -2,8 +2,8 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="026" pageID="https://www.thegazette.co.uk/id/London/index/year/1987/volume/2/page/026" pagePDF="https://www.thegazette.co.uk/London/index/year/1987/volume/2/page/026" pageRDF="https://www.thegazette.co.uk/London/index/year/1987/volume/2/page/026?view=linked-data" type="index" volume="2" year="1987">
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, R. J</Text>
+      <Key>O'Shea</Key>
+      <Forenames>R. J</Forenames>
       <PageNumber>5857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -23,8 +23,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, P. M</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>P. M</Forenames>
       <PageNumber>7680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -58,8 +58,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Toole, S. P</Text>
+      <Key>O'Toole</Key>
+      <Forenames>S. P</Forenames>
       <PageNumber>7671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2154,8 +2154,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reavill</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>7683</PageNumber>
     </MainItem>
   </ItemGroup>

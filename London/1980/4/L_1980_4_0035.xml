@@ -1235,9 +1235,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Molesworth-St</Key>
-      <Forenames>Aubyn</Forenames>
-      <Text>, W</Text>
+      <Key>Molesworth-St. Aubyn</Key>
+      <Forenames>W.</Forenames>
       <PageNumber>17810</PageNumber>
     </MainItem>
   </ItemGroup>

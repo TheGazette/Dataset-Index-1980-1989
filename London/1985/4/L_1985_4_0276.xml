@@ -620,8 +620,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodman</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>F. St. J</Forenames>
       <PageNumber>13494</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -832,8 +831,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. St. J</Forenames>
       <PageNumber>15773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -980,8 +978,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gray</Key>
-      <Forenames>F. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>F. O'D</Forenames>
       <PageNumber>17323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1949,8 +1946,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hanna</Key>
-      <Forenames>L. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>L. O'B</Forenames>
       <PageNumber>16173</PageNumber>
     </MainItem>
   </ItemGroup>

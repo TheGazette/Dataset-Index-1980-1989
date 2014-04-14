@@ -270,7 +270,9 @@
     <MainItem>
       <Key>MacPherson</Key>
       <Forenames>A.</Forenames>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>16589</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1844,7 +1846,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Text>V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>15163</PageNumber>
     </MainItem>
   </ItemGroup>

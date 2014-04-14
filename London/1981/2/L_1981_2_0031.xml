@@ -1609,7 +1609,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Landon</Key>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>8081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2094,8 +2096,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lemon</Key>
-      <Forenames>M. J. A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. J. A. St. J</Forenames>
       <PageNumber>6938</PageNumber>
     </MainItem>
   </ItemGroup>

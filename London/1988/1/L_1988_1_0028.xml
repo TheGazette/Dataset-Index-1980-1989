@@ -1078,7 +1078,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Melville-Shreeve</Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>1801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1372,8 +1374,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Forenames>S. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>S. St. M</Forenames>
       <PageNumber>1806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1529,8 +1530,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Minogue</Key>
-      <Forenames>P. J. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>P. J. O'B</Forenames>
       <PageNumber>306</PageNumber>
     </MainItem>
   </ItemGroup>

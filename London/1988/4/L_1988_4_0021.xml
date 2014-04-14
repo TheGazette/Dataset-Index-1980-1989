@@ -1991,9 +1991,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Molesworth-St</Key>
-      <Forenames>Aubyn</Forenames>
-      <Text>, C. H</Text>
+      <Key>Molesworth-St. Aubyn</Key>
+      <Forenames>C. H.</Forenames>
       <PageNumber>11634</PageNumber>
     </MainItem>
   </ItemGroup>

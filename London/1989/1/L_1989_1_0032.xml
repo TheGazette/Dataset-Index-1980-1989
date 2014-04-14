@@ -704,9 +704,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Hoop</Forenames>
-      <Text>, A. W., enquiry for relating to estate of Mrs. I. Pain of Chile</Text>
+      <Key>De Hoop</Key>
+      <Forenames>A. W.</Forenames>
+      <Text>, enquiry for relating to estate of Mrs. I. Pain of Chile</Text>
       <PageNumber>3001</PageNumber>
     </MainItem>
   </ItemGroup>

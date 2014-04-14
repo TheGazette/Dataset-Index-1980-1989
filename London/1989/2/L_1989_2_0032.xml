@@ -231,7 +231,9 @@
     <MainItem>
       <Key>Sutherland</Key>
       <Forenames>J.</Forenames>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>7232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1737,16 +1739,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>De Cappelle</Forenames>
+      <Key>Van De</Key>
+      <Forenames>Cappelle</Forenames>
       <Text>, C. E. J</Text>
       <PageNumber>6124</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Den Bergh</Forenames>
+      <Key>Van Den</Key>
+      <Forenames>Bergh</Forenames>
       <Text>, M. J</Text>
       <PageNumber>5522</PageNumber>
     </MainItem>

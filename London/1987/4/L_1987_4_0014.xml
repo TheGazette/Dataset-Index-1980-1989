@@ -2064,7 +2064,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bueno</Key>
-      <Text>de Mesquita, N. P</Text>
+      <Forenames>de Mesquita</Forenames>
+      <Text>, N. P</Text>
       <PageNumber>15341</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -512,8 +512,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>B. St. J</Forenames>
       <PageNumber>4639</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1293,8 +1292,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bohling</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>7989</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -477,8 +477,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dracopoli</Key>
-      <Forenames>M. P. St</Forenames>
-      <Text>. F</Text>
+      <Forenames>M. P. St. F</Forenames>
       <PageNumber>3882</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1449,8 +1448,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Erskine</Key>
-      <Forenames>The</Forenames>
-      <Text>Lord</Text>
+      <Title>The Lord</Title>
       <PageNumber>2009</PageNumber>
     </MainItem>
   </ItemGroup>

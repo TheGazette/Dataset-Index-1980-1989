@@ -88,8 +88,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hurley</Key>
-      <Forenames>J. R. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>J. R. St. P</Forenames>
       <PageNumber>6948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,8 +851,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Forenames>D. G. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. G. St. J</Forenames>
       <PageNumber>4295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1653,7 +1651,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Knight</Key>
-      <Text>CB</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>6947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1856,7 +1856,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lambe</Key>
-      <Text>M.D. P</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6950</PageNumber>
     </MainItem>
   </ItemGroup>

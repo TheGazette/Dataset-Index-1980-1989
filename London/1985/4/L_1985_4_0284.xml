@@ -1044,8 +1044,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Forenames>J. A.</Forenames>
-      <Text>de M</Text>
+      <Forenames>J. A. de M</Forenames>
       <PageNumber>13866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2165,17 +2164,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Berkel</Forenames>
-      <Text>, J. G</Text>
+      <Key>Van Berkel</Key>
+      <Forenames>J. G.</Forenames>
       <PageNumber>16549</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Poeteren</Forenames>
-      <Text>, J. S. M. G</Text>
+      <Key>Van Poeteren</Key>
+      <Forenames>J. S. M. G.</Forenames>
       <PageNumber>16169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2365,9 +2362,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Hoven</Forenames>
-      <Text>, A. C</Text>
+      <Key>Von Hoven</Key>
+      <Forenames>A. C.</Forenames>
       <PageNumber>18252</PageNumber>
     </MainItem>
   </ItemGroup>

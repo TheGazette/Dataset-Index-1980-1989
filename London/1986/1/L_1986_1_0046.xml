@@ -635,9 +635,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Berckel</Forenames>
-      <Text>, C. E</Text>
+      <Key>Van Berckel</Key>
+      <Forenames>C. E</Forenames>
       <PageNumber>2715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,9 +663,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Grutten</Forenames>
-      <Text>, M. W</Text>
+      <Key>Van Grutten</Key>
+      <Forenames>M. W</Forenames>
       <PageNumber>2709</PageNumber>
     </MainItem>
   </ItemGroup>

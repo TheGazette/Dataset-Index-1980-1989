@@ -2090,8 +2090,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grey</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. St. J</Forenames>
       <PageNumber>1436</PageNumber>
     </MainItem>
   </ItemGroup>

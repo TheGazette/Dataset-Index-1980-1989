@@ -589,7 +589,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hayes</Key>
-      <Forenames>G. De V. W.</Forenames>
+      <Forenames>G. De V</Forenames>
+      <Text>. W</Text>
       <PageNumber>7702</PageNumber>
     </MainItem>
   </ItemGroup>

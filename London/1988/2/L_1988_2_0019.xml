@@ -2067,7 +2067,9 @@
     <MainItem>
       <Key>Cunningham</Key>
       <Forenames>P.</Forenames>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>4319</PageNumber>
     </MainItem>
   </ItemGroup>

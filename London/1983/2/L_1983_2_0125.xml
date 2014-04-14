@@ -2011,16 +2011,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Den Berg</Forenames>
+      <Key>Van Den</Key>
+      <Forenames>Berg</Forenames>
       <Text>, G. G. S</Text>
       <PageNumber>5974</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Plank</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Plank</Forenames>
       <Text>, R. E</Text>
       <PageNumber>5304</PageNumber>
     </MainItem>

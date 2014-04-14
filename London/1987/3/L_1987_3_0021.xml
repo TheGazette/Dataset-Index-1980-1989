@@ -871,7 +871,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>9569</PageNumber>
     </MainItem>
   </ItemGroup>

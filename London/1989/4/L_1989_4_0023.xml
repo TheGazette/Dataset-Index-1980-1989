@@ -806,7 +806,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Raper</Key>
-      <Text>M.D. S</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>11888</PageNumber>
     </MainItem>
   </ItemGroup>

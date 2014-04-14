@@ -578,9 +578,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair-Butler</Forenames>
-      <Text>, J. M. D</Text>
+      <Key>St. Clair-Butler</Key>
+      <Forenames>J. M. D.</Forenames>
       <PageNumber>482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -805,7 +804,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>482</PageNumber>
       <PageNumber>3637</PageNumber>
     </MainItem>
@@ -2242,8 +2243,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Steiner</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>475</PageNumber>
     </MainItem>
   </ItemGroup>

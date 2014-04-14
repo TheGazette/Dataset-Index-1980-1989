@@ -616,8 +616,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilbert</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. J. J</Text>
+      <Forenames>M. St. J</Forenames>
+      <Text>. J</Text>
       <PageNumber>9344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -948,8 +948,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodman</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>P. St. J</Forenames>
       <PageNumber>12636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1749,8 +1748,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>E. St. J</Forenames>
       <PageNumber>12631</PageNumber>
     </MainItem>
   </ItemGroup>

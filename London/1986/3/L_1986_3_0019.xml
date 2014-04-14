@@ -31,8 +31,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Munston</Key>
-      <Forenames>T. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>T. St. J</Forenames>
       <PageNumber>12331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,36 +656,36 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, J</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J</Forenames>
       <PageNumber>12633</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, T. W. P</Text>
+      <Key>O'Brien</Key>
+      <Forenames>T. W. P</Forenames>
       <PageNumber>11435</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, W. C</Text>
+      <Key>O'Brien</Key>
+      <Forenames>W. C</Forenames>
       <PageNumber>10878</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, G. M</Text>
+      <Key>O'Connor</Key>
+      <Forenames>G. M</Forenames>
       <PageNumber>10294</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, M</Text>
+      <Key>O'Connor</Key>
+      <Forenames>M</Forenames>
       <PageNumber>9023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,8 +698,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, M</Text>
+      <Key>O'Donovan</Key>
+      <Forenames>M</Forenames>
       <PageNumber>9974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -734,22 +733,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Halloran, D. A</Text>
+      <Key>O'Halloran</Key>
+      <Forenames>D. A</Forenames>
       <PageNumber>11435</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, J</Text>
+      <Key>O'Hara</Key>
+      <Forenames>J</Forenames>
       <PageNumber>9343</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hare, M. A</Text>
+      <Key>O'Hare</Key>
+      <Forenames>M. A</Forenames>
       <PageNumber>9024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,8 +761,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keefe, D. W</Text>
+      <Key>O'Keefe</Key>
+      <Forenames>D. W</Forenames>
       <PageNumber>12335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,8 +810,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mahony, J. J</Text>
+      <Key>O'Mahony</Key>
+      <Forenames>J. J</Forenames>
       <PageNumber>9019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,37 +824,37 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Lord</Text>
+      <Key>O'Neill</Key>
+      <Title>Lord</Title>
       <PageNumber>9661</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, H</Text>
+      <Key>O'Neill</Key>
+      <Forenames>H</Forenames>
       <PageNumber>10880</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, J. G</Text>
+      <Key>O'Neill</Key>
+      <Forenames>J. G</Forenames>
       <PageNumber>9972</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, J. P</Text>
+      <Key>O'Neill</Key>
+      <Forenames>J. P</Forenames>
       <PageNumber>9020</PageNumber>
       <PageNumber>9972</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, M. E</Text>
+      <Key>O'Neill</Key>
+      <Forenames>M. E</Forenames>
       <PageNumber>11711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -882,8 +881,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, A. J</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>A. J</Forenames>
       <PageNumber>9023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2262,8 +2261,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Preston</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. St. C</Forenames>
       <PageNumber>11133</PageNumber>
     </MainItem>
   </ItemGroup>

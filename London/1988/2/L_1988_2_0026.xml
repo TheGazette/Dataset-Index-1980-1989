@@ -445,7 +445,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Remnant</Key>
-      <Text>L.G</Text>
+      <Text>
+        <Honour>L.G</Honour>
+      </Text>
       <PageNumber>4950</PageNumber>
     </MainItem>
   </ItemGroup>

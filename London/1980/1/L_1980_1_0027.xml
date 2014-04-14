@@ -607,8 +607,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dracopoli</Key>
-      <Forenames>M. P. St</Forenames>
-      <Text>. F</Text>
+      <Forenames>M. P. St. F</Forenames>
       <PageNumber>3764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -864,6 +863,13 @@
       <Key>Dunwoody</Key>
       <Forenames>K. A.</Forenames>
       <PageNumber>3430</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Pon</Key>
+      <Forenames>G. P.</Forenames>
+      <PageNumber>4156</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2146,16 +2152,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Filsell</Key>
-      <Forenames>A. M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. M. St. J</Forenames>
       <PageNumber>3430</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Filsell</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. St. J</Forenames>
       <PageNumber>305</PageNumber>
     </MainItem>
   </ItemGroup>

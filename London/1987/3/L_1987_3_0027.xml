@@ -708,7 +708,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Summers</Key>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>11207</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1356,138 +1358,140 @@
     <MainItem>
       <Key>Tebbutt</Key>
       <Text>D.L</Text>
-      <PageNumber>9574</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Tennant</Key>
-      <Text>C.B</Text>
-      <PageNumber>9880</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Terrell</Key>
-      <Forenames>C</Forenames>
-      <PageNumber>12052</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Terris</Key>
-      <Forenames>A.A.B.</Forenames>
-      <PageNumber>9575</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Terry</Key>
-      <Forenames>A. J</Forenames>
-      <PageNumber>11203</PageNumber>
-      <PageNumber>11460</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Terry</Key>
-      <Forenames>M. C</Forenames>
-      <PageNumber>8966</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Thacker</Key>
-      <Forenames>K.B.</Forenames>
-      <PageNumber>9575</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Thackray</Key>
-      <Forenames>G</Forenames>
-      <PageNumber>11464</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Thatcher</Key>
-      <Forenames>B. P.</Forenames>
-      <PageNumber>10177</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Thayne</Key>
-      <Forenames>R.C</Forenames>
-      <PageNumber>8658</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Thiele</Key>
-      <Forenames>R.</Forenames>
-      <Text>M.C</Text>
-      <PageNumber>11203</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Third</Key>
-      <Forenames>A. G</Forenames>
-      <PageNumber>9578</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Thirlwall</Key>
-      <Forenames>D</Forenames>
-      <PageNumber>11738</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Thoburn</Key>
-      <Forenames>R</Forenames>
-      <PageNumber>10451</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Thomas</Key>
-      <Forenames>A. J.</Forenames>
-      <PageNumber>11464</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Thomas</Key>
-      <Forenames>A. P. W.</Forenames>
-      <PageNumber>10451</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Thomas</Key>
-      <Forenames>C.J.</Forenames>
-      <PageNumber>12065</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Thomas</Key>
-      <Forenames>D.G</Forenames>
-      <PageNumber>8972</PageNumber>
-      <PageNumber>10971</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Thomas</Key>
-      <Forenames>D.J.</Forenames>
-      <PageNumber>9576</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>9574</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Tennant</Key>
+        <Text>C.B</Text>
+        <PageNumber>9880</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Terrell</Key>
+        <Forenames>C</Forenames>
+        <PageNumber>12052</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Terris</Key>
+        <Forenames>A.A.B.</Forenames>
+        <PageNumber>9575</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Terry</Key>
+        <Forenames>A. J</Forenames>
+        <PageNumber>11203</PageNumber>
+        <PageNumber>11460</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Terry</Key>
+        <Forenames>M. C</Forenames>
+        <PageNumber>8966</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Thacker</Key>
+        <Forenames>K.B.</Forenames>
+        <PageNumber>9575</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Thackray</Key>
+        <Forenames>G</Forenames>
+        <PageNumber>11464</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Thatcher</Key>
+        <Forenames>B. P.</Forenames>
+        <PageNumber>10177</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Thayne</Key>
+        <Forenames>R.C</Forenames>
+        <PageNumber>8658</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Thiele</Key>
+        <Forenames>R.</Forenames>
+        <Text>M.C</Text>
+        <PageNumber>11203</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Third</Key>
+        <Forenames>A. G</Forenames>
+        <PageNumber>9578</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Thirlwall</Key>
+        <Forenames>D</Forenames>
+        <PageNumber>11738</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Thoburn</Key>
+        <Forenames>R</Forenames>
+        <PageNumber>10451</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Thomas</Key>
+        <Forenames>A. J.</Forenames>
+        <PageNumber>11464</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Thomas</Key>
+        <Forenames>A. P. W.</Forenames>
+        <PageNumber>10451</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Thomas</Key>
+        <Forenames>C.J.</Forenames>
+        <PageNumber>12065</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Thomas</Key>
+        <Forenames>D.G</Forenames>
+        <PageNumber>8972</PageNumber>
+        <PageNumber>10971</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Thomas</Key>
+        <Forenames>D.J.</Forenames>
+        <PageNumber>9576</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>

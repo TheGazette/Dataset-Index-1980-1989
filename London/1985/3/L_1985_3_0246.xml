@@ -454,8 +454,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roche</Key>
-      <Forenames>T. O</Forenames>
-      <Text>'G</Text>
+      <Forenames>T. O'G</Forenames>
       <PageNumber>13136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,8 +841,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rushton</Key>
-      <Forenames>F. A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>F. A. St. J</Forenames>
       <PageNumber>11153</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -982,9 +980,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair-Butler</Forenames>
-      <Text>, I. M. D</Text>
+      <Key>St. Clair-Butler</Key>
+      <Forenames>I. M. D.</Forenames>
       <PageNumber>10465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1616,8 +1613,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shambrook</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>9049</PageNumber>
     </MainItem>
   </ItemGroup>

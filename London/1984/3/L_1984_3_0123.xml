@@ -543,8 +543,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abbott</Key>
-      <Forenames>S. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>S. St. C</Forenames>
       <PageNumber>12664</PageNumber>
     </MainItem>
   </ItemGroup>

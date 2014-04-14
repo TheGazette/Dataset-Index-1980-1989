@@ -1657,9 +1657,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Belder</Key>
+      <Forenames>C. G</Forenames>
+      <PageNumber>12453</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Debijang</Key>
       <Title>Gurung .</Title>
       <PageNumber>11485</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Bretton-Gordon</Key>
+      <Forenames>A. N.</Forenames>
+      <PageNumber>11147</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1678,8 +1692,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Cour</Forenames>
+      <Key>De La</Key>
+      <Forenames>Cour</Forenames>
       <Text>, G</Text>
       <PageNumber>13150</PageNumber>
     </MainItem>
@@ -1784,10 +1798,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Planta De Wildenburg</Forenames>
+      <Key>De Planta</Key>
+      <Forenames>De Wildenburg</Forenames>
       <Text>, F. M. G</Text>
       <PageNumber>9047</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pulford</Key>
+      <Forenames>J. C. F.</Forenames>
+      <PageNumber>9053</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1799,9 +1820,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Soyza</Forenames>
-      <Text>, K. W</Text>
+      <Key>De Soyza</Key>
+      <Forenames>K. W.</Forenames>
       <PageNumber>12797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1856,9 +1876,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vos</Forenames>
-      <Text>, J. P</Text>
+      <Key>De Vos</Key>
+      <Forenames>J. P</Forenames>
       <PageNumber>9048</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1878,9 +1897,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Winton</Forenames>
-      <Text>, A. C</Text>
+      <Key>De Winton</Key>
+      <Forenames>A. C.</Forenames>
       <PageNumber>12449</PageNumber>
     </MainItem>
   </ItemGroup>

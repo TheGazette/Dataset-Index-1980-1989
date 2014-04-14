@@ -1436,6 +1436,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Camps</Key>
+      <Forenames>S. P</Forenames>
+      <PageNumber>14452</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Delaney</Key>
       <Forenames>G. T</Forenames>
       <PageNumber>15348</PageNumber>
@@ -1506,9 +1513,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Normann</Forenames>
-      <Text>, J. R. C</Text>
+      <Key>de Normann</Key>
+      <Forenames>A. L</Forenames>
+      <PageNumber>15609</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Normann</Key>
+      <Forenames>J. R. C.</Forenames>
       <PageNumber>13828</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1622,6 +1635,13 @@
       <Key>Dexter</Key>
       <Forenames>T.J</Forenames>
       <PageNumber>14132</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Zulueta</Key>
+      <Forenames>P. G</Forenames>
+      <PageNumber>14775</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2329,8 +2349,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duggan</Key>
-      <Forenames>J. R. St</Forenames>
-      <Text>. Q</Text>
+      <Forenames>J. R. St. Q</Forenames>
       <PageNumber>13830</PageNumber>
     </MainItem>
   </ItemGroup>

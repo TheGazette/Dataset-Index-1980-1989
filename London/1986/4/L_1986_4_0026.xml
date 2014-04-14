@@ -1052,7 +1052,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>13874</PageNumber>
       <PageNumber>16779</PageNumber>
     </MainItem>
@@ -1201,7 +1203,9 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>T.</Forenames>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>14186</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -17,8 +17,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Webster</Key>
-      <Forenames>J. P. O</Forenames>
-      <Text>'F</Text>
+      <Forenames>J. P. O'F</Forenames>
       <PageNumber>8716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,8 +256,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Westminster</Key>
-      <Forenames>The</Forenames>
-      <Text>Duke of</Text>
+      <Title>The Duke</Title>
+      <Text>of</Text>
       <PageNumber>5171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1686,8 +1685,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wise</Key>
-      <Forenames>R. H. D. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>R. H. D. St. G</Forenames>
       <PageNumber>5171</PageNumber>
     </MainItem>
   </ItemGroup>

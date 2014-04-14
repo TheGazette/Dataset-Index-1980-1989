@@ -2107,8 +2107,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelton</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>J. St. G</Forenames>
       <PageNumber>9046</PageNumber>
     </MainItem>
   </ItemGroup>

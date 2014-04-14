@@ -1582,7 +1582,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Koch</Key>
-      <Text>de Gooreynd, P. F. L</Text>
+      <Forenames>de Gooreynd</Forenames>
+      <Text>, P. F. L</Text>
       <PageNumber>13957</PageNumber>
     </MainItem>
   </ItemGroup>

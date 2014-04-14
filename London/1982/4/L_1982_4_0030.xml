@@ -432,7 +432,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Springall</Key>
-      <Text>M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>14618</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1560,142 +1562,144 @@
     <MainItem>
       <Key>Sunman</Key>
       <Text>P.C</Text>
-      <PageNumber>12911</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Sutcliffe</Key>
-      <Forenames>R. W. H.</Forenames>
-      <PageNumber>13233</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Sutton</Key>
-      <Forenames>K.B</Forenames>
-      <PageNumber>15992</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Sutton</Key>
-      <Forenames>M. P. J.</Forenames>
-      <PageNumber>16694</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Swabey</Key>
-      <Forenames>J. C. M.</Forenames>
-      <PageNumber>16692</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Swales</Key>
-      <Forenames>A. W</Forenames>
-      <PageNumber>12911</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Swallow</Key>
-      <Forenames>P.M.</Forenames>
-      <PageNumber>13573</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Swan</Key>
-      <Forenames>A. J</Forenames>
-      <PageNumber>16696</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Swan</Key>
-      <Forenames>P. L</Forenames>
-      <PageNumber>16695</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Swann</Key>
-      <Forenames>A.M.</Forenames>
-      <PageNumber>13574</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Sweatman</Key>
-      <Forenames>J</Forenames>
-      <PageNumber>13247</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Sweeney</Key>
-      <Forenames>E. B. T.</Forenames>
-      <PageNumber>14265</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Sweet</Key>
-      <Forenames>R.G</Forenames>
-      <PageNumber>14266</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Sweeting</Key>
-      <Forenames>C. W.</Forenames>
-      <PageNumber>12909</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Sweeton-Smith</Key>
-      <Forenames>B. A.</Forenames>
-      <PageNumber>12910</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Swift</Key>
-      <Forenames>D.S.</Forenames>
-      <PageNumber>16694</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Swinton</Key>
-      <Forenames>I. A</Forenames>
-      <PageNumber>15623</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Swinton-Eagle</Key>
-      <Forenames>W. H.</Forenames>
-      <PageNumber>15996</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Swithenbank</Key>
-      <Forenames>S.</Forenames>
-      <PageNumber>16347</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Swithernbank</Key>
-      <Forenames>R.F.</Forenames>
-      <PageNumber>16685</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>12911</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Sutcliffe</Key>
+        <Forenames>R. W. H.</Forenames>
+        <PageNumber>13233</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Sutton</Key>
+        <Forenames>K.B</Forenames>
+        <PageNumber>15992</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Sutton</Key>
+        <Forenames>M. P. J.</Forenames>
+        <PageNumber>16694</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Swabey</Key>
+        <Forenames>J. C. M.</Forenames>
+        <PageNumber>16692</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Swales</Key>
+        <Forenames>A. W</Forenames>
+        <PageNumber>12911</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Swallow</Key>
+        <Forenames>P.M.</Forenames>
+        <PageNumber>13573</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Swan</Key>
+        <Forenames>A. J</Forenames>
+        <PageNumber>16696</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Swan</Key>
+        <Forenames>P. L</Forenames>
+        <PageNumber>16695</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Swann</Key>
+        <Forenames>A.M.</Forenames>
+        <PageNumber>13574</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Sweatman</Key>
+        <Forenames>J</Forenames>
+        <PageNumber>13247</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Sweeney</Key>
+        <Forenames>E. B. T.</Forenames>
+        <PageNumber>14265</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Sweet</Key>
+        <Forenames>R.G</Forenames>
+        <PageNumber>14266</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Sweeting</Key>
+        <Forenames>C. W.</Forenames>
+        <PageNumber>12909</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Sweeton-Smith</Key>
+        <Forenames>B. A.</Forenames>
+        <PageNumber>12910</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Swift</Key>
+        <Forenames>D.S.</Forenames>
+        <PageNumber>16694</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Swinton</Key>
+        <Forenames>I. A</Forenames>
+        <PageNumber>15623</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Swinton-Eagle</Key>
+        <Forenames>W. H.</Forenames>
+        <PageNumber>15996</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Swithenbank</Key>
+        <Forenames>S.</Forenames>
+        <PageNumber>16347</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Swithernbank</Key>
+        <Forenames>R.F.</Forenames>
+        <PageNumber>16685</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Syes</Key>
@@ -2410,23 +2414,25 @@
     <MainItem>
       <Key>Thomson</Key>
       <Text>G.C</Text>
-      <PageNumber>14621</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Thomson</Key>
-      <Forenames>I. A.</Forenames>
-      <PageNumber>15631</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Thomson</Key>
-      <Forenames>J. E.</Forenames>
-      <PageNumber>14265</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>14621</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Thomson</Key>
+        <Forenames>I. A.</Forenames>
+        <PageNumber>15631</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Thomson</Key>
+        <Forenames>J. E.</Forenames>
+        <PageNumber>14265</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Thomson</Key>

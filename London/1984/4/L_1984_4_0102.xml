@@ -116,8 +116,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Frv</Key>
-      <Forenames>A. A. St</Forenames>
-      <Text>. Q</Text>
+      <Forenames>A. A. St. Q</Forenames>
       <PageNumber>14960</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1020,8 +1019,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodman</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>P. St. J</Forenames>
       <PageNumber>13309</PageNumber>
     </MainItem>
   </ItemGroup>

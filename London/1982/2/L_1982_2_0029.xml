@@ -420,8 +420,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leathes</Key>
-      <Forenames>J. A.</Forenames>
-      <Text>de M</Text>
+      <Forenames>J. A. de M</Forenames>
       <PageNumber>6287</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1294,8 +1293,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyster</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. St. J</Forenames>
       <PageNumber>8533</PageNumber>
     </MainItem>
   </ItemGroup>

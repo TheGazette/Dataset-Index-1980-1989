@@ -1369,8 +1369,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Savllle</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. St. G</Forenames>
       <PageNumber>3884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1928,8 +1927,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Forenames>R. C. O</Forenames>
-      <Text>'M</Text>
+      <Forenames>R. C. O'M</Forenames>
       <PageNumber>3886</PageNumber>
     </MainItem>
   </ItemGroup>

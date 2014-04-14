@@ -2054,8 +2054,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daws</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>8199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2159,6 +2158,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bretton-Gordon</Key>
+      <Forenames>H. S.</Forenames>
+      <PageNumber>10778</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De</Key>
       <Forenames>Broe-Ferguson</Forenames>
       <Text>, E. N. DeB., DeB</Text>
@@ -2167,17 +2173,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Fonblanque</Forenames>
-      <Text>, H. B</Text>
+      <Key>De Fonblanque</Key>
+      <Forenames>H. B.</Forenames>
       <PageNumber>7701</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Haldevang</Forenames>
-      <Text>, J. H. U. D</Text>
+      <Key>De Haldevang</Key>
+      <Forenames>J. H. U. D.</Forenames>
       <PageNumber>9271</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2191,17 +2195,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Torre</Forenames>
-      <Text>, M. E</Text>
+      <Key>de Ritter</Key>
+      <Forenames>A. P</Forenames>
+      <PageNumber>7702</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Torre</Key>
+      <Forenames>M. E</Forenames>
       <PageNumber>10475</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vater</Forenames>
-      <Text>, S. R. R</Text>
+      <Key>De Vater</Key>
+      <Forenames>S. R. R</Forenames>
       <PageNumber>8447</PageNumber>
     </MainItem>
   </ItemGroup>

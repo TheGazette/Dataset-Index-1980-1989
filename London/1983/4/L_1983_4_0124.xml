@@ -938,7 +938,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Companhia</Key>
-      <Text>de Seguros Imperio, transfer notice</Text>
+      <Forenames>de Seguros Im-</Forenames>
+      <Text>perio, transfer notice</Text>
       <PageNumber>15691</PageNumber>
     </MainItem>
   </ItemGroup>

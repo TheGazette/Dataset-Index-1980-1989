@@ -1664,8 +1664,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bassett</Key>
-      <Forenames>J. M. O</Forenames>
-      <Text>'R</Text>
+      <Forenames>J. M. O'R</Forenames>
       <PageNumber>10653</PageNumber>
     </MainItem>
   </ItemGroup>

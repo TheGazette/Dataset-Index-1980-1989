@@ -332,7 +332,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Strevens</Key>
-      <Text>O.M. ... B</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +408,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sturman</Key>
-      <Text>L.G</Text>
+      <Text>
+        <Honour>L.G</Honour>
+      </Text>
       <PageNumber>6641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +599,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Swenson</Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>6581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -902,7 +908,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>L.G</Text>
+      <Text>
+        <Honour>L.G</Honour>
+      </Text>
       <PageNumber>7517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1632,7 +1640,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tozer</Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>5307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2041,7 +2051,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Urch</Key>
-      <Text>L.G</Text>
+      <Text>
+        <Honour>L.G</Honour>
+      </Text>
       <PageNumber>7517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2068,9 +2080,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Blaricom</Forenames>
-      <Text>, L</Text>
+      <Key>Van Blaricom</Key>
+      <Forenames>L.</Forenames>
       <PageNumber>6582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2094,6 +2105,13 @@
       <Key>Vanstone</Key>
       <Forenames>A. M. B</Forenames>
       <PageNumber>22</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Straubenzee</Key>
+      <Forenames>W. B. B</Forenames>
+      <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2268,7 +2286,9 @@
     <MainItem>
       <Key>Vickers</Key>
       <Forenames>M.</Forenames>
-      <Text>... B2i Vickerstaff,R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>7518</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1527,8 +1527,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Colan-O</Key>
-      <Text>'Leary, G. W</Text>
+      <Key>Colan-O'Leary</Key>
+      <Forenames>G. W.</Forenames>
       <PageNumber>6948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2163,7 +2163,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Coville</Key>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>4002</PageNumber>
       <PageNumber>4296</PageNumber>
     </MainItem>

@@ -638,8 +638,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beaufort</Key>
-      <Forenames>The</Forenames>
-      <Text>Duke of</Text>
+      <Title>The Duke</Title>
+      <Text>of</Text>
       <PageNumber>10741</PageNumber>
     </MainItem>
   </ItemGroup>

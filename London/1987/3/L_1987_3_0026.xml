@@ -766,7 +766,9 @@
     <MainItem>
       <Key>Selwyn-Yates</Key>
       <Forenames>I.</Forenames>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>11466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -843,8 +845,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shambrook</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>11457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1211,7 +1212,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Short</Key>
-      <Text>CB.H</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>8657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1972,7 +1975,9 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>T.</Forenames>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>11204</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1267,7 +1267,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Burden</Key>
-      <Text>D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>1198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1766,8 +1768,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cameron</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>N. St. C</Forenames>
       <PageNumber>3435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2343,8 +2344,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Channer</Key>
-      <Forenames>R. H.</Forenames>
-      <Text>de R</Text>
+      <Forenames>R. H. de R</Forenames>
       <PageNumber>1198</PageNumber>
     </MainItem>
   </ItemGroup>

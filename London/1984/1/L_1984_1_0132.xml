@@ -227,8 +227,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Forenames>W. R.</Forenames>
-      <Text>de C. M</Text>
+      <Forenames>W. R. de C</Forenames>
+      <Text>. M</Text>
       <PageNumber>683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1477,9 +1477,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Terheyden</Forenames>
-      <Text>, K. M. R</Text>
+      <Key>Van Terheyden</Key>
+      <Forenames>K. M. R.</Forenames>
       <PageNumber>684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1746,8 +1745,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wade</Key>
-      <Forenames>R. N. H.</Forenames>
-      <Text>de V</Text>
+      <Forenames>R. N. H. de V</Forenames>
       <PageNumber>1738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1923,8 +1921,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waller</Key>
-      <Forenames>E. W.</Forenames>
-      <Text>de W</Text>
+      <Forenames>E. W. de W</Forenames>
       <PageNumber>2091</PageNumber>
     </MainItem>
   </ItemGroup>

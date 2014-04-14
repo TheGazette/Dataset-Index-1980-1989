@@ -178,8 +178,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Forenames>M. S. O</Forenames>
-      <Text>'F</Text>
+      <Forenames>M. S. O'F</Forenames>
       <PageNumber>6346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1478,6 +1477,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Lotbiniere</Key>
+      <Forenames>G. A. J.</Forenames>
+      <PageNumber>9006</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Denby</Key>
       <Forenames>G. J.</Forenames>
       <PageNumber>6335</PageNumber>
@@ -1538,6 +1544,21 @@
       <Key>Denny</Key>
       <Forenames>P. W.</Forenames>
       <PageNumber>8996</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Normann</Key>
+      <Forenames>A. L.</Forenames>
+      <PageNumber>5613</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Trey</Key>
+      <Forenames>White</Forenames>
+      <Text>, A. I,</Text>
+      <PageNumber>8995</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2046,9 +2067,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Port</Forenames>
-      <Text>, A. N</Text>
+      <Key>Du Port</Key>
+      <Forenames>A. N.</Forenames>
       <PageNumber>7286</PageNumber>
     </MainItem>
   </ItemGroup>

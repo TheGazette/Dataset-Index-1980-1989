@@ -1550,8 +1550,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Laden</Key>
-      <Forenames>R.St</Forenames>
-      <Text>. L</Text>
+      <Forenames>R.St. L</Forenames>
       <PageNumber>11312</PageNumber>
     </MainItem>
   </ItemGroup>

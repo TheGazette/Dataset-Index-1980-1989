@@ -567,8 +567,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunbury</Key>
-      <Forenames>M. C.</Forenames>
-      <Text>de St P</Text>
+      <Forenames>M. C. de St P.</Forenames>
       <PageNumber>12937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,8 +700,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burnet</Key>
-      <Forenames>R. J.</Forenames>
-      <Text>de J</Text>
+      <Forenames>R. J. de J</Forenames>
       <PageNumber>14703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1838,8 +1836,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chapman</Key>
-      <Forenames>R.</Forenames>
-      <Text>de C</Text>
+      <Forenames>R. de C</Forenames>
       <PageNumber>15054</PageNumber>
     </MainItem>
   </ItemGroup>

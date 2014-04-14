@@ -52,8 +52,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Forenames>A. L. St</Forenames>
-      <Text>. G. S</Text>
+      <Forenames>A. L. St. G</Forenames>
+      <Text>. S</Text>
       <PageNumber>2214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2341,17 +2341,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Beaux</Forenames>
-      <Text>, S. J</Text>
+      <Key>De Beaux</Key>
+      <Forenames>S. J.</Forenames>
       <PageNumber>3638</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bhulbh</Forenames>
-      <Text>, M. E</Text>
+      <Key>De Bhulbh</Key>
+      <Forenames>M. E.</Forenames>
       <PageNumber>129</PageNumber>
     </MainItem>
   </ItemGroup>

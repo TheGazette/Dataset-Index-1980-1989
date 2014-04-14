@@ -1971,8 +1971,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Forenames>M.S. O</Forenames>
-      <Text>'F</Text>
+      <Forenames>M.S. O'F</Forenames>
       <PageNumber>15610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2381,8 +2380,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coughlan</Key>
-      <Title>St.</Title>
-      <Forenames>J. P. P.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>P. P.</Forenames>
       <PageNumber>13831</PageNumber>
       <PageNumber>13841</PageNumber>
       <PageNumber>15343</PageNumber>

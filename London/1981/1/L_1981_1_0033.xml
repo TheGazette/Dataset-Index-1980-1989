@@ -30,8 +30,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, M. T</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>M. T.</Forenames>
       <PageNumber>1559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,8 +73,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, F. W. G</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>F. W. G.</Forenames>
       <PageNumber>460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -94,8 +94,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, J. M</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>J. M.</Forenames>
       <PageNumber>828</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2194,7 +2194,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramos</Key>
-      <Forenames>J. S. De P.</Forenames>
+      <Forenames>J. S. De P</Forenames>
       <PageNumber>1565</PageNumber>
     </MainItem>
   </ItemGroup>

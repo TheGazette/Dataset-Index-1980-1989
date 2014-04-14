@@ -1112,8 +1112,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Glendinning</Key>
-      <Forenames>M. P. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>M. P. St. C</Forenames>
       <PageNumber>1806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2247,8 +2246,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>E. St. J</Forenames>
       <PageNumber>1487</PageNumber>
     </MainItem>
   </ItemGroup>

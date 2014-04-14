@@ -283,8 +283,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barker</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>G. St. J</Forenames>
       <PageNumber>16020</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,8 +691,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baxter</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J. L</Text>
+      <Forenames>P. St. J</Forenames>
+      <Text>. L</Text>
       <PageNumber>13949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -721,8 +720,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beardsworth</Key>
-      <Forenames>S. A.</Forenames>
-      <Text>de A</Text>
+      <Forenames>S. A. de A</Forenames>
       <PageNumber>15655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,8 +790,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beaumont</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J. MacD</Text>
+      <Forenames>P. St. J</Forenames>
+      <Text>. MacD</Text>
       <PageNumber>13301</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -727,8 +727,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Forenames>B. N. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>B. N. St. C</Forenames>
       <PageNumber>12377</PageNumber>
     </MainItem>
   </ItemGroup>

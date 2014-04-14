@@ -622,9 +622,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Pre</Forenames>
-      <Text>, G. M</Text>
+      <Key>Du Pre</Key>
+      <Forenames>G. M.</Forenames>
       <PageNumber>13262</PageNumber>
     </MainItem>
   </ItemGroup>

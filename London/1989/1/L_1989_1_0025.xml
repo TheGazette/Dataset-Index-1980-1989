@@ -1373,7 +1373,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lukacs-Lessner</Key>
-      <Text>de Szeged, A.J. de</Text>
+      <Forenames>de Szeged</Forenames>
+      <Text>, A.J. de</Text>
       <PageNumber>327</PageNumber>
     </MainItem>
   </ItemGroup>

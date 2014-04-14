@@ -1028,24 +1028,24 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Den Burgh</Forenames>
+      <Key>Van Den</Key>
+      <Forenames>Burgh</Forenames>
       <Text>, M. J</Text>
       <PageNumber>12788</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Gucht</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Gucht</Forenames>
       <Text>, M</Text>
       <PageNumber>9048</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Lande</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Lande</Forenames>
       <Text>, M. C</Text>
       <PageNumber>9045</PageNumber>
     </MainItem>
@@ -1059,9 +1059,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Orton</Forenames>
-      <Text>, C. E</Text>
+      <Key>Van Orton</Key>
+      <Forenames>C. E.</Forenames>
       <PageNumber>10105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1284,9 +1283,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Bertele</Forenames>
-      <Text>, M. J</Text>
+      <Key>Von Bertele</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>12107</PageNumber>
     </MainItem>
   </ItemGroup>

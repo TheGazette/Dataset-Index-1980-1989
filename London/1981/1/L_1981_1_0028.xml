@@ -756,7 +756,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gomes</Key>
-      <Text>de Mesquita, D. J</Text>
+      <Forenames>de Mesquita</Forenames>
+      <Text>, D. J</Text>
       <PageNumber>2679</PageNumber>
     </MainItem>
   </ItemGroup>

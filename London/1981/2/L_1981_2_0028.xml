@@ -559,8 +559,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Haye</Forenames>
+      <Key>De La</Key>
+      <Forenames>Haye</Forenames>
       <Text>, B. G</Text>
       <PageNumber>6942</PageNumber>
     </MainItem>
@@ -638,6 +638,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Roeper</Key>
+      <Forenames>S. D. C.</Forenames>
+      <PageNumber>6933</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Desai</Key>
       <Forenames>S. K. H.</Forenames>
       <PageNumber>8392</PageNumber>
@@ -648,6 +655,13 @@
       <Key>Desborough</Key>
       <Forenames>C. L.</Forenames>
       <PageNumber>7507</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Stacpoole</Key>
+      <Forenames>D. H. O.</Forenames>
+      <PageNumber>6939</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

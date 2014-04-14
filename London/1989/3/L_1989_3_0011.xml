@@ -929,7 +929,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Webber</Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>8371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1296,8 +1298,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Fuente</Forenames>
+      <Key>De La</Key>
+      <Forenames>Fuente</Forenames>
       <Text>, A. L</Text>
       <PageNumber>9276</PageNumber>
     </MainItem>
@@ -2037,7 +2039,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ansell</Key>
-      <Text>M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>10719</PageNumber>
     </MainItem>
   </ItemGroup>

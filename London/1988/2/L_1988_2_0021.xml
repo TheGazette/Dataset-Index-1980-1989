@@ -2313,7 +2313,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Harper</Key>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>4310</PageNumber>
     </MainItem>
   </ItemGroup>

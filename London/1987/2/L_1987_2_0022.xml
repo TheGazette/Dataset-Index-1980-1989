@@ -1150,8 +1150,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopkins</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>N. St. J</Forenames>
       <PageNumber>8349</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -667,7 +667,9 @@
     <MainItem>
       <Key>Laird</Key>
       <Forenames>C.</Forenames>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>14620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,23 +1168,25 @@
     <MainItem>
       <Key>Lawson</Key>
       <Text>M.C</Text>
-      <PageNumber>13578</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Lawson</Key>
-      <Forenames>M. P.</Forenames>
-      <PageNumber>13572</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Lawson</Key>
-      <Forenames>R</Forenames>
-      <PageNumber>15621</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>13578</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Lawson</Key>
+        <Forenames>M. P.</Forenames>
+        <PageNumber>13572</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Lawson</Key>
+        <Forenames>R</Forenames>
+        <PageNumber>15621</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Lawson</Key>

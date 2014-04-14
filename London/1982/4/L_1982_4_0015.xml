@@ -643,22 +643,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, M. J</Text>
+      <Key>O'Connell</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>12842</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, D. L</Text>
+      <Key>O'Connor</Key>
+      <Forenames>D. L.</Forenames>
       <PageNumber>12843</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kane, E. J</Text>
+      <Key>O'Kane</Key>
+      <Forenames>E. J</Forenames>
       <PageNumber>12842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,8 +671,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, E</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>E</Forenames>
       <PageNumber>12853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1329,8 +1329,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Horst</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Horst</Forenames>
       <Text>, R. C</Text>
       <PageNumber>12842</PageNumber>
     </MainItem>

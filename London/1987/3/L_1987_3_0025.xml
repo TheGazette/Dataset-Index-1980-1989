@@ -781,8 +781,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Redgrave</Key>
-      <Forenames>M.St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M.St. J</Forenames>
       <PageNumber>10454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1735,7 +1734,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>8969</PageNumber>
       <PageNumber>9577</PageNumber>
     </MainItem>

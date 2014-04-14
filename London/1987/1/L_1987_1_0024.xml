@@ -2266,8 +2266,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holden</Key>
-      <Forenames>P. S. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>P. S. St. C</Forenames>
       <PageNumber>3181</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1758,8 +1758,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bishop</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J. S</Text>
+      <Forenames>R. St. J</Forenames>
+      <Text>. S</Text>
       <PageNumber>9146</PageNumber>
     </MainItem>
   </ItemGroup>

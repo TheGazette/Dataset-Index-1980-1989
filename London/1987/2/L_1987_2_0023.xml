@@ -531,8 +531,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Forenames>D. G. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. G. St. J</Forenames>
       <PageNumber>7684</PageNumber>
     </MainItem>
   </ItemGroup>

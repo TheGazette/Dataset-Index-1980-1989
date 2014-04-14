@@ -553,8 +553,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>
-      <Forenames>R.</Forenames>
-      <Text>de F</Text>
+      <Forenames>R. de F</Forenames>
       <PageNumber>1435</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1672,8 +1672,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kilminster</Key>
-      <Forenames>J. C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. C. St. J</Forenames>
       <PageNumber>3029</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1694,7 +1693,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kinahan</Key>
-      <Forenames>D. De B.</Forenames>
+      <Forenames>D. De B</Forenames>
       <PageNumber>3766</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -445,8 +445,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roskelly</Key>
-      <Forenames>C. M.</Forenames>
-      <Text>de W</Text>
+      <Forenames>C. M. de W</Forenames>
       <PageNumber>11683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,17 +880,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Aubyn-Sayer</Forenames>
-      <Text>, J. H</Text>
+      <Key>St. Aubyn-Sayer</Key>
+      <Forenames>J. H.</Forenames>
       <PageNumber>10649</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Paul</Forenames>
-      <Text>, S. R. W</Text>
+      <Key>St. Paul</Key>
+      <Forenames>S. R. W.</Forenames>
       <PageNumber>10657</PageNumber>
       <PageNumber>11685</PageNumber>
     </MainItem>

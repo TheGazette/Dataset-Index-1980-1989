@@ -2110,22 +2110,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Bryne, R. N</Text>
+      <Key>O'Bryne</Key>
+      <Forenames>R. N.</Forenames>
       <PageNumber>14269</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, D. M</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>D. M.</Forenames>
       <PageNumber>14267</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, J</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>14265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2138,29 +2138,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, V. A</Text>
+      <Key>O'Connell</Key>
+      <Forenames>V. A.</Forenames>
       <PageNumber>16410</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, J. L</Text>
+      <Key>O'Connor</Key>
+      <Forenames>J. L.</Forenames>
       <PageNumber>14275</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dell, P. M. H</Text>
+      <Key>O'Dell</Key>
+      <Forenames>P. M. H.</Forenames>
       <PageNumber>17109</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, P</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>P.</Forenames>
       <PageNumber>14966</PageNumber>
       <PageNumber>15656</PageNumber>
     </MainItem>
@@ -2216,50 +2216,50 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, A. C</Text>
+      <Key>O'Hara</Key>
+      <Forenames>A. C.</Forenames>
       <PageNumber>13307</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hare, B</Text>
+      <Key>O'Hare</Key>
+      <Forenames>B</Forenames>
       <PageNumber>15324</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hare, J. H</Text>
+      <Key>O'Hare</Key>
+      <Forenames>J. H.</Forenames>
       <PageNumber>13949</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kane, C. A. J</Text>
+      <Key>O'Kane</Key>
+      <Forenames>C. A. J.</Forenames>
       <PageNumber>14960</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keefe, G. M</Text>
+      <Key>O'Keefe</Key>
+      <Forenames>G. M.</Forenames>
       <PageNumber>16021</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keefe, R. C</Text>
+      <Key>O'Keefe</Key>
+      <Forenames>R. C.</Forenames>
       <PageNumber>13951</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, D. R. E</Text>
+      <Key>O'Kelly</Key>
+      <Forenames>D. R. E.</Forenames>
       <PageNumber>14273</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2279,8 +2279,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, C. M. R</Text>
+      <Key>O'Leary</Key>
+      <Forenames>C. M. R.</Forenames>
       <PageNumber>13621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2342,22 +2342,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Loan, M. I</Text>
+      <Key>O'Loan</Key>
+      <Forenames>M. I.</Forenames>
       <PageNumber>14271</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, S. J</Text>
+      <Key>O'Meara</Key>
+      <Forenames>S. J.</Forenames>
       <PageNumber>15320</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, C</Text>
+      <Key>O'Neill</Key>
+      <Forenames>C</Forenames>
       <PageNumber>15317</PageNumber>
     </MainItem>
   </ItemGroup>

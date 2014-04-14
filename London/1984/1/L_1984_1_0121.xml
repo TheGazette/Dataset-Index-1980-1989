@@ -1008,7 +1008,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Champion</Key>
-      <Text>de Crespigney, H. P</Text>
+      <Forenames>de Crespigney</Forenames>
+      <Text>, H. P</Text>
       <PageNumber>71</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1889,8 +1890,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collin</Key>
-      <Forenames>M. P.</Forenames>
-      <Text>de E</Text>
+      <Forenames>M. P. de E</Forenames>
       <PageNumber>2097</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -227,8 +227,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cranfield</Key>
-      <Forenames>J. T. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>J. T. O'B</Forenames>
       <PageNumber>16953</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,8 +1165,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawson</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. St. G</Forenames>
       <PageNumber>17322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1286,24 +1284,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Caux</Forenames>
-      <Text>, M. R</Text>
+      <Key>de Bues</Key>
+      <Forenames>C. V. R.</Forenames>
+      <PageNumber>14273</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Caux</Key>
+      <Forenames>M. R</Forenames>
       <PageNumber>16172</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Fosse</Forenames>
+      <Key>De La</Key>
+      <Forenames>Fosse</Forenames>
       <Text>, T. A</Text>
       <PageNumber>14270</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Fuente</Forenames>
+      <Key>De La</Key>
+      <Forenames>Fuente</Forenames>
       <Text>, C</Text>
       <PageNumber>13867</PageNumber>
     </MainItem>
@@ -1415,9 +1419,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vater</Forenames>
-      <Text>, S. R. R</Text>
+      <Key>De Vater</Key>
+      <Forenames>S. R. R.</Forenames>
       <PageNumber>15019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2035,8 +2038,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Downs</Key>
-      <Forenames>P.</Forenames>
-      <Text>de C</Text>
+      <Forenames>P. de C</Forenames>
       <PageNumber>15017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2236,8 +2238,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duggan</Key>
-      <Forenames>J. R. St</Forenames>
-      <Text>. Q</Text>
+      <Forenames>J. R. St. Q</Forenames>
       <PageNumber>16948</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -473,8 +473,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reed</Key>
-      <Forenames>C. G. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. G. St. J</Forenames>
       <PageNumber>18255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -906,8 +905,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Forenames>O. C.</Forenames>
-      <Text>de R</Text>
+      <Forenames>O. C. de R</Forenames>
       <PageNumber>16553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2059,9 +2057,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair</Forenames>
-      <Text>, B. E</Text>
+      <Key>St. Clair</Key>
+      <Forenames>B. E</Forenames>
       <PageNumber>15021</PageNumber>
     </MainItem>
   </ItemGroup>

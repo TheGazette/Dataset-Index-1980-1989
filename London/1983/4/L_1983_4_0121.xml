@@ -2,9 +2,8 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="121" pageID="https://www.thegazette.co.uk/id/London/index/year/1983/volume/4/page/121" pagePDF="https://www.thegazette.co.uk/London/index/year/1983/volume/4/page/121" pageRDF="https://www.thegazette.co.uk/London/index/year/1983/volume/4/page/121?view=linked-data" type="index" volume="4" year="1983">
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Aubyn</Forenames>
-      <Text>, M. J. A</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>M. J. A.</Forenames>
       <PageNumber>13992</PageNumber>
     </MainItem>
   </ItemGroup>

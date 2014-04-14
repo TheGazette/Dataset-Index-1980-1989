@@ -3,8 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pollock</Key>
-      <Forenames>J. H. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>J. H. O'H</Forenames>
       <PageNumber>15275</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,8 +585,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pugh</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>G. St. A</Forenames>
       <PageNumber>17058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -972,8 +970,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ranger</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. St. J</Forenames>
       <PageNumber>16718</PageNumber>
     </MainItem>
   </ItemGroup>

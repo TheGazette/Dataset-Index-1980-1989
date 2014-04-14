@@ -291,7 +291,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lloyd</Key>
-      <Text>M.C.]</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6469</PageNumber>
       <PageNumber>8358</PageNumber>
     </MainItem>

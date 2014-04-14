@@ -1488,7 +1488,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bartram</Key>
-      <Text>G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>11307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1602,7 +1604,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Baulf</Key>
-      <Text>CH.G</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>11312</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1922,7 +1922,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>78</PageNumber>
     </MainItem>
   </ItemGroup>

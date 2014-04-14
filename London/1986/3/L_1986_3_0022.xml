@@ -524,25 +524,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Den Bergh</Forenames>
+      <Key>Van Den</Key>
+      <Forenames>Bergh</Forenames>
       <Text>, M. J</Text>
       <PageNumber>9343</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Driessen</Forenames>
-      <Text>, J. M</Text>
+      <Key>Van Driessen</Key>
+      <Forenames>J. M.</Forenames>
       <PageNumber>11710</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Onselen</Forenames>
-      <Text>, I. R. W</Text>
+      <Key>Van Onselen</Key>
+      <Forenames>I. R. W.</Forenames>
       <PageNumber>9020</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -660,9 +658,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Zugbach</Forenames>
-      <Text>de Sugg, R. G. L</Text>
+      <Key>Von Zugbach</Key>
+      <Forenames>de Sugg</Forenames>
+      <Text>, R. G. L</Text>
       <PageNumber>11437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1145,8 +1143,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warrington</Key>
-      <Forenames>T. C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>T. C. St. J</Forenames>
       <PageNumber>12334</PageNumber>
     </MainItem>
   </ItemGroup>

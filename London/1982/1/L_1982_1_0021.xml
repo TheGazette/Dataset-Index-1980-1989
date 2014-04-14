@@ -33,8 +33,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abraham</Key>
-      <Forenames>S. M. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>S. M. O'H</Forenames>
       <PageNumber>158</PageNumber>
     </MainItem>
   </ItemGroup>

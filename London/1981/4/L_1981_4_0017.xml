@@ -2172,9 +2172,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Roeck</Forenames>
-      <Text>, P. E</Text>
+      <Key>De Roeck</Key>
+      <Forenames>P. E.</Forenames>
       <PageNumber>13607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2187,17 +2186,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Soyza</Forenames>
-      <Text>, K. W</Text>
+      <Key>De Soyza</Key>
+      <Forenames>K. W.</Forenames>
       <PageNumber>14925</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Spretter</Forenames>
-      <Text>, D. B</Text>
+      <Key>De Spretter</Key>
+      <Forenames>D. B.</Forenames>
       <PageNumber>13269</PageNumber>
     </MainItem>
   </ItemGroup>

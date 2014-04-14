@@ -1831,9 +1831,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair</Forenames>
-      <Text>, B. E</Text>
+      <Key>St. Clair</Key>
+      <Forenames>B. E.</Forenames>
       <PageNumber>4431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1854,8 +1853,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Salisbury</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>345</PageNumber>
     </MainItem>
   </ItemGroup>

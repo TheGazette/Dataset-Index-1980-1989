@@ -1256,8 +1256,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kilmister</Key>
-      <Forenames>J. C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. C. St. J</Forenames>
       <PageNumber>15609</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -452,6 +452,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>van Dyke</Key>
+      <Forenames>D</Forenames>
+      <PageNumber>8766</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Vantine</Key>
       <Forenames>A</Forenames>
       <PageNumber>8765</PageNumber>
@@ -475,6 +482,13 @@
     <MainItem>
       <Key>Vasquez</Key>
       <Forenames>L.J</Forenames>
+      <PageNumber>8765</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Heyl</Key>
+      <Text>zu Herrnsheim, Baroness</Text>
       <PageNumber>8765</PageNumber>
     </MainItem>
   </ItemGroup>

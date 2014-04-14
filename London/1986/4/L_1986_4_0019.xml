@@ -1236,7 +1236,9 @@
     <MainItem>
       <Key>Hotson</Key>
       <Forenames>N.</Forenames>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>13259</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1525,7 +1527,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes</Key>
-      <Text>D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>14503</PageNumber>
     </MainItem>
   </ItemGroup>

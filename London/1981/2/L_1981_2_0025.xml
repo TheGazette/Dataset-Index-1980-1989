@@ -485,7 +485,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Text>D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>8086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -577,7 +579,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tait</Key>
-      <Text>P.C. ... B</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>30</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -741,8 +741,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Forenames>S. M. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>S. M. St. C</Forenames>
       <PageNumber>12380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2218,6 +2217,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bretton-Gordon</Key>
+      <Forenames>A. P.</Forenames>
+      <PageNumber>9715</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deeks</Key>
       <Forenames>N. B.</Forenames>
       <PageNumber>12380</PageNumber>
@@ -2239,18 +2245,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Fleury</Forenames>
-      <Text>, C. G</Text>
+      <Key>De Fleury</Key>
+      <Forenames>C. G.</Forenames>
       <PageNumber>12377</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Garis</Forenames>
-      <Text>, D. R. W</Text>
+      <Key>De Garis</Key>
+      <Forenames>D. R. W.</Forenames>
       <PageNumber>12376</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Glanville</Key>
+      <Forenames>P. M.</Forenames>
+      <PageNumber>12023</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2279,6 +2290,13 @@
       <Key>Dellow</Key>
       <Forenames>D. R.</Forenames>
       <PageNumber>9716</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mendonca</Key>
+      <Forenames>R. A. J.</Forenames>
+      <PageNumber>12975</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2328,6 +2346,13 @@
       <Key>Dent</Key>
       <Forenames>F. T</Forenames>
       <PageNumber>11760</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Saram</Key>
+      <Forenames>H. O.</Forenames>
+      <PageNumber>12380</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

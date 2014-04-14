@@ -1276,9 +1276,11 @@
       <Key>Broadbent</Key>
       <Forenames>P.</Forenames>
       <Text>M.P</Text>
-      <PageNumber>15626</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Honour>
+    <PageNumber>15626</PageNumber>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Broadway</Key>
@@ -1495,7 +1497,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>16696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1899,7 +1903,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Budden</Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>14276</PageNumber>
     </MainItem>
   </ItemGroup>

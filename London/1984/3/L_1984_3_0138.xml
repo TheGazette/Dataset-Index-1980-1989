@@ -172,8 +172,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warren</Key>
-      <Forenames>N. R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>N. R. St. J</Forenames>
       <PageNumber>9775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2082,7 +2081,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>10745</PageNumber>
     </MainItem>
   </ItemGroup>

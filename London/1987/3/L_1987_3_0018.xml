@@ -599,7 +599,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Evason</Key>
-      <Text>P.C</Text>
+      <Text>
+        <Honour>P.C</Honour>
+      </Text>
       <PageNumber>8658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -711,7 +713,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fairhurst</Key>
-      <Text>G.M. . (01)</Text>
+      <Text>
+        <Honour>G.M.</Honour>
+      </Text>
       <PageNumber>8653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,7 +956,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ferguson</Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>8661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1458,37 +1464,39 @@
     <MainItem>
       <Key>Forte</Key>
       <Text>CB</Text>
-      <PageNumber>10176</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Forteath</Key>
-      <Forenames>J.M</Forenames>
-      <PageNumber>9878</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Foster</Key>
-      <Forenames>H</Forenames>
-      <PageNumber>11744</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Foster</Key>
-      <Forenames>J. J.L.</Forenames>
-      <PageNumber>11461</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Fotheringham</Key>
-      <Forenames>G. I .</Forenames>
-      <PageNumber>11203</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>10176</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Forteath</Key>
+        <Forenames>J.M</Forenames>
+        <PageNumber>9878</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Foster</Key>
+        <Forenames>H</Forenames>
+        <PageNumber>11744</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Foster</Key>
+        <Forenames>J. J.L.</Forenames>
+        <PageNumber>11461</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Fotheringham</Key>
+        <Forenames>G. I .</Forenames>
+        <PageNumber>11203</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Foubister</Key>
@@ -2167,8 +2175,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gent</Key>
-      <Forenames>R.P.St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R.P.St. J</Forenames>
       <PageNumber>12052</PageNumber>
     </MainItem>
   </ItemGroup>

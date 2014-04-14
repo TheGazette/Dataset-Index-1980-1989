@@ -934,8 +934,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mason</Key>
-      <Forenames>K. J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>K. J. St. J</Forenames>
       <PageNumber>3490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1460,9 +1459,11 @@
     <MainItem>
       <Key>Miller</Key>
       <Text>V.C</Text>
-      <PageNumber>3698</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Honour>
+    <PageNumber>3698</PageNumber>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Millett</Key>
@@ -1706,8 +1707,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mockford</Key>
-      <Forenames>K. M. Molesworth-St</Forenames>
-      <Text>. Aubyn, W</Text>
+      <Forenames>K. M. Molesworth-St. Aubyn</Forenames>
+      <Text>, W</Text>
       <PageNumber>1562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2051,7 +2052,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Morris</Key>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>1892</PageNumber>
     </MainItem>
   </ItemGroup>

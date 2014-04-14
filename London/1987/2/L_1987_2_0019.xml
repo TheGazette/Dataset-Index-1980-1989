@@ -1400,6 +1400,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Collin</Key>
+      <Forenames>M. P</Forenames>
+      <PageNumber>7669</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dedhar</Key>
       <Forenames>S. S</Forenames>
       <PageNumber>4652</PageNumber>
@@ -1506,6 +1513,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Roeper</Key>
+      <Forenames>S. D. C</Forenames>
+      <PageNumber>4638</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dcrwcnt</Key>
       <Forenames>I. P. G.</Forenames>
       <PageNumber>7681</PageNumber>
@@ -1523,6 +1537,13 @@
       <Key>Dc-Salis</Key>
       <Forenames>M. S. F</Forenames>
       <PageNumber>7993</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Savigny-Bowcr</Key>
+      <Forenames>R. A.</Forenames>
+      <PageNumber>6471</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2194,8 +2215,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duggan</Key>
-      <Forenames>J. R. St</Forenames>
-      <Text>. Q</Text>
+      <Forenames>J. R. St. Q</Forenames>
       <PageNumber>7669</PageNumber>
     </MainItem>
   </ItemGroup>

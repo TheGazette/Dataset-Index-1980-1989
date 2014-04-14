@@ -31,7 +31,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Planta</Key>
-      <Text>de Wildenberg, C. M. G.de</Text>
+      <Forenames>de Wildenberg</Forenames>
+      <Text>, C. M. G.de</Text>
       <PageNumber>1228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2239,9 +2240,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Matthew-Daniel</Forenames>
-      <Text>, A. O</Text>
+      <Key>St. Matthew-Daniel</Key>
+      <Forenames>A. O.</Forenames>
       <PageNumber>1565</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1948,7 +1948,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mitchell</Key>
-      <Text>de Faria, A</Text>
+      <Forenames>de Faria</Forenames>
+      <Text>, A</Text>
       <PageNumber>9056</PageNumber>
     </MainItem>
   </ItemGroup>

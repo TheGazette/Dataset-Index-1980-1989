@@ -1883,8 +1883,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogers</Key>
-      <Forenames>H. S.</Forenames>
-      <Text>de N</Text>
+      <Forenames>H. S. de N</Forenames>
       <PageNumber>13998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2223,8 +2222,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rushton</Key>
-      <Forenames>F. A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>F. A. St. J</Forenames>
       <PageNumber>13654</PageNumber>
     </MainItem>
   </ItemGroup>

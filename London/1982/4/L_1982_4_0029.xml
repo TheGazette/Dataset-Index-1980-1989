@@ -502,7 +502,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sadler</Key>
-      <Text>C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>13232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1423,8 +1425,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Forenames>R. C. O</Forenames>
-      <Text>'M</Text>
+      <Forenames>R. C. O'M</Forenames>
       <PageNumber>13580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1747,8 +1748,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Simmons</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>C. St. C</Forenames>
       <PageNumber>15626</PageNumber>
     </MainItem>
   </ItemGroup>

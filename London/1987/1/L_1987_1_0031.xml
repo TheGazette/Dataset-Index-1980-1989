@@ -1141,9 +1141,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Ure</Forenames>
-      <Text>, J. P</Text>
+      <Key>Van Ure</Key>
+      <Forenames>J. P</Forenames>
       <PageNumber>3934</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,17 +1169,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Gucht</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Gucht</Forenames>
       <Text>, M</Text>
       <PageNumber>2473</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Driessen</Forenames>
-      <Text>, J. M</Text>
+      <Key>Van Driessen</Key>
+      <Forenames>J. M</Forenames>
       <PageNumber>456</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1960,7 +1958,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Waters</Key>
-      <Text>R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>770</PageNumber>
       <PageNumber>2100</PageNumber>
       <PageNumber>2101</PageNumber>

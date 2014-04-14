@@ -1074,17 +1074,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, M. D</Text>
+      <Key>St. John</Key>
+      <Forenames>M. D.</Forenames>
       <PageNumber>15278</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John-Crees</Forenames>
-      <Text>, D</Text>
+      <Key>St. John-Crees</Key>
+      <Forenames>D.</Forenames>
       <PageNumber>14925</PageNumber>
     </MainItem>
   </ItemGroup>

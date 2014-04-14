@@ -712,7 +712,8 @@
   <ItemGroup>
     <MainItem>
       <Key>March-Phillips</Key>
-      <Text>de Lisle, H. L. R</Text>
+      <Forenames>de Lisle</Forenames>
+      <Text>, H. L. R</Text>
       <PageNumber>1439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1715,8 +1716,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Minogue</Key>
-      <Forenames>P. J. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>P. J. O'B</Forenames>
       <PageNumber>1442</PageNumber>
     </MainItem>
   </ItemGroup>

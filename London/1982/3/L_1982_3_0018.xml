@@ -255,8 +255,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Irwin</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>B. St. G</Forenames>
       <PageNumber>9459</PageNumber>
     </MainItem>
   </ItemGroup>

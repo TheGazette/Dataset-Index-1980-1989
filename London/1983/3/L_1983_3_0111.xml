@@ -1467,8 +1467,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewett</Key>
-      <Forenames>M. M. P. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>M. M. P. O'C</Forenames>
       <PageNumber>12305</PageNumber>
     </MainItem>
   </ItemGroup>

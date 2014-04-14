@@ -348,33 +348,31 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Aubyn</Forenames>
-      <Text>, J. D. E</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>J. D. E.</Forenames>
       <PageNumber>15061</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>George Carey</Forenames>
+      <Key>St. George</Key>
+      <Forenames>Carey</Forenames>
       <Text>, G. M</Text>
       <PageNumber>12658</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John-Brown</Forenames>
-      <Text>. A. .... i</Text>
+      <Key>St. John-Brown</Key>
+      <Forenames>A.</Forenames>
+      <Text>.... i</Text>
       <PageNumber>5608</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John-Crees</Forenames>
-      <Text>, D</Text>
+      <Key>St. John-Crees</Key>
+      <Forenames>D</Forenames>
       <PageNumber>14145</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -333,8 +333,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collin</Key>
-      <Forenames>G.</Forenames>
-      <Text>de E</Text>
+      <Forenames>G. de E</Forenames>
       <PageNumber>16465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -743,8 +742,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cormack</Key>
-      <Forenames>M.</Forenames>
-      <Text>von S</Text>
+      <Forenames>M. von S</Forenames>
       <PageNumber>13998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1083,8 +1081,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cox</Key>
-      <Forenames>M. S. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. S. St. J</Forenames>
       <PageNumber>13292</PageNumber>
       <PageNumber>16791</PageNumber>
     </MainItem>
@@ -2251,10 +2248,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Beaux</Forenames>
-      <Text>, S. J</Text>
+      <Key>De Beaux</Key>
+      <Forenames>S. J.</Forenames>
       <PageNumber>14709</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Chair</Key>
+      <Forenames>R. S. D.</Forenames>
+      <PageNumber>12932</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2273,8 +2276,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Fosse</Forenames>
+      <Key>de Hochepied</Key>
+      <Forenames>Larpent</Forenames>
+      <Text>, A. L. D</Text>
+      <PageNumber>13644</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De La</Key>
+      <Forenames>Fosse</Forenames>
       <Text>, T. A</Text>
       <PageNumber>15396</PageNumber>
     </MainItem>
@@ -2291,6 +2302,13 @@
       <Key>Delf</Key>
       <Forenames>M</Forenames>
       <PageNumber>15052</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lusignan</Key>
+      <Forenames>S.</Forenames>
+      <PageNumber>16122</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

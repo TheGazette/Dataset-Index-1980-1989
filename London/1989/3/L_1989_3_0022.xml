@@ -1855,17 +1855,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Barker</Forenames>
-      <Text>, G. J</Text>
+      <Key>St. Barker</Key>
+      <Forenames>G. J</Forenames>
       <PageNumber>10462</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair</Forenames>
-      <Text>, B.E</Text>
+      <Key>St. Clair</Key>
+      <Forenames>B.E</Forenames>
       <PageNumber>10220</PageNumber>
     </MainItem>
   </ItemGroup>

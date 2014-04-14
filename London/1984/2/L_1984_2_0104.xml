@@ -2338,9 +2338,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Beek</Forenames>
-      <Text>, L</Text>
+      <Key>Van Beek</Key>
+      <Forenames>L.</Forenames>
       <PageNumber>5585</PageNumber>
     </MainItem>
   </ItemGroup>

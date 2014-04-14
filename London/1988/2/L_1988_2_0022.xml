@@ -987,7 +987,9 @@
     <MainItem>
       <Key>Holland</Key>
       <Forenames>A.</Forenames>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>6088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2179,7 +2181,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jefferies</Key>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>4620</PageNumber>
     </MainItem>
   </ItemGroup>

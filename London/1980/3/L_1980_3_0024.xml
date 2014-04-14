@@ -2,15 +2,15 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="024" pageID="https://www.thegazette.co.uk/id/London/index/year/1980/volume/3/page/024" pagePDF="https://www.thegazette.co.uk/London/index/year/1980/volume/3/page/024" pageRDF="https://www.thegazette.co.uk/London/index/year/1980/volume/3/page/024?view=linked-data" type="index" volume="3" year="1980">
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hare, CD</Text>
+      <Key>O'Hare</Key>
+      <Text>CD</Text>
       <PageNumber>9715</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, F. J</Text>
+      <Key>O'Kelly</Key>
+      <Forenames>F. J.</Forenames>
       <PageNumber>13630</PageNumber>
       <PageNumber>13631</PageNumber>
     </MainItem>
@@ -59,8 +59,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, C. M. R</Text>
+      <Key>O'Leary</Key>
+      <Forenames>C. M. R.</Forenames>
       <PageNumber>12980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -115,22 +115,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, P</Text>
+      <Key>O'Malley</Key>
+      <Forenames>P.</Forenames>
       <PageNumber>11757</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, A. M. J</Text>
+      <Key>O'Neill</Key>
+      <Forenames>A. M. J.</Forenames>
       <PageNumber>12377</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, H. D. Me Warren)</Text>
+      <Key>O'Neill</Key>
+      <Forenames>H. D. Me Warren</Forenames>
+      <Text>)</Text>
       <PageNumber>12675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,15 +158,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, D. A. P</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>D. A. P.</Forenames>
       <PageNumber>9709</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, M. J</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>11758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,15 +214,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, K. M. P</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>K. M. P.</Forenames>
       <PageNumber>9371</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, S</Text>
+      <Key>O'Shea</Key>
+      <Forenames>S</Forenames>
       <PageNumber>12030</PageNumber>
     </MainItem>
   </ItemGroup>

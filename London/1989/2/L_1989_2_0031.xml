@@ -285,8 +285,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
-      <Forenames>K. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>K. St. J</Forenames>
       <PageNumber>6948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,9 +368,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, C</Text>
+      <Key>St. John</Key>
+      <Forenames>C</Forenames>
       <PageNumber>6121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -949,7 +947,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Shearer</Key>
-      <Text>D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>4917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1103,8 +1103,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shevlin</Key>
-      <Title>St.</Title>
-      <Forenames>J. C.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>C.</Forenames>
       <PageNumber>5524</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -517,17 +517,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Lier</Forenames>
-      <Text>, M. L</Text>
+      <Key>Van Lier</Key>
+      <Forenames>M. L</Forenames>
       <PageNumber>10782</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Onselen</Forenames>
-      <Text>, I. R. W</Text>
+      <Key>Van Onselen</Key>
+      <Forenames>I. R. W.</Forenames>
       <PageNumber>9269</PageNumber>
     </MainItem>
   </ItemGroup>

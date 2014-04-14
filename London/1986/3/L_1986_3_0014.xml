@@ -23,8 +23,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Haye</Forenames>
+      <Key>De La</Key>
+      <Forenames>Haye</Forenames>
       <Text>, D</Text>
       <PageNumber>12019</PageNumber>
     </MainItem>
@@ -101,6 +101,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Rohan-Willner</Key>
+      <Forenames>G. P.</Forenames>
+      <PageNumber>11440</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Derrett</Key>
       <Forenames>R. V</Forenames>
       <PageNumber>9971</PageNumber>
@@ -115,17 +122,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Souza</Forenames>
-      <Text>, C. A</Text>
+      <Key>De Souza</Key>
+      <Forenames>C. A</Forenames>
       <PageNumber>10292</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Soyza</Forenames>
-      <Text>, N. A</Text>
+      <Key>De Soyza</Key>
+      <Forenames>N. A</Forenames>
       <PageNumber>9027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,6 +139,13 @@
       <Key>Dessain</Key>
       <Forenames>M. C</Forenames>
       <PageNumber>9022</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Torre</Key>
+      <Forenames>M. E</Forenames>
+      <PageNumber>11139</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -948,8 +960,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Earle</Key>
-      <Forenames>J. C. R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. C. R. St. J</Forenames>
       <PageNumber>9971</PageNumber>
     </MainItem>
   </ItemGroup>

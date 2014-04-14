@@ -554,8 +554,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevens</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>6351</PageNumber>
     </MainItem>
   </ItemGroup>

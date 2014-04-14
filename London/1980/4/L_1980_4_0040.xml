@@ -465,9 +465,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Gelder</Forenames>
-      <Text>, J. A</Text>
+      <Key>Van Gelder</Key>
+      <Forenames>J. A.</Forenames>
       <PageNumber>13958</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,17 +663,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Bertele</Forenames>
-      <Text>, M. J</Text>
+      <Key>Von Bertele</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>16707</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Merveldt</Forenames>
-      <Text>, J. M</Text>
+      <Key>Von Merveldt</Key>
+      <Forenames>J. M.</Forenames>
       <PageNumber>15273</PageNumber>
     </MainItem>
   </ItemGroup>

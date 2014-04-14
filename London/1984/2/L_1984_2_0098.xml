@@ -327,8 +327,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Glamis</Key>
-      <Forenames>The</Forenames>
-      <Text>Lord</Text>
+      <Title>The Lord .</Title>
       <PageNumber>8747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1535,8 +1534,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hanson</Key>
-      <Forenames>R.</Forenames>
-      <Text>de G</Text>
+      <Forenames>R. de G</Forenames>
       <PageNumber>5585</PageNumber>
     </MainItem>
   </ItemGroup>

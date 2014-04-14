@@ -499,32 +499,31 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Berckel</Forenames>
-      <Text>, C. E</Text>
+      <Key>Van Berckel</Key>
+      <Forenames>C. E</Forenames>
       <PageNumber>15341</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Den Bergh</Forenames>
+      <Key>Van Den</Key>
+      <Forenames>Bergh</Forenames>
       <Text>, R. C</Text>
       <PageNumber>13829</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Horst</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Horst</Forenames>
       <Text>, R. E</Text>
       <PageNumber>12656</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Lande</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Lande</Forenames>
       <Text>(Lt.)</Text>
       <PageNumber>13828</PageNumber>
     </MainItem>

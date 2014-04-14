@@ -150,7 +150,9 @@
   <ItemGroup>
     <MainItem>
       <Key>East</Key>
-      <Text>M.D. V</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>15610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1376,7 +1378,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fielder</Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>13828</PageNumber>
     </MainItem>
   </ItemGroup>

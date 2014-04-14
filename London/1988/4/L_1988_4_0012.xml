@@ -1569,7 +1569,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Babbs</Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>11916</PageNumber>
       <PageNumber>12218</PageNumber>
     </MainItem>

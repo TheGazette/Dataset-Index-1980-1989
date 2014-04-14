@@ -474,7 +474,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dathan</Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>4297</PageNumber>
       <PageNumber>6953</PageNumber>
     </MainItem>
@@ -819,10 +821,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salaberry-Lewis</Forenames>
-      <Text>, J. H</Text>
+      <Key>De Salaberry-Lewis</Key>
+      <Forenames>J. H.</Forenames>
       <PageNumber>6117</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sabs</Key>
+      <Forenames>J. B. P. H</Forenames>
+      <PageNumber>6381</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1228,8 +1236,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dougall</Key>
-      <Forenames>J. H. O</Forenames>
-      <Text>'B. C</Text>
+      <Forenames>J. H. O'B</Forenames>
+      <Text>. C</Text>
       <PageNumber>7234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2324,7 +2332,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fane</Key>
-      <Text>de Salis, H. J. A</Text>
+      <Forenames>de Salis</Forenames>
+      <Text>, H. J. A</Text>
       <PageNumber>6390</PageNumber>
     </MainItem>
   </ItemGroup>

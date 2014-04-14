@@ -774,8 +774,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyle</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>6149</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -932,8 +932,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawthorne</Key>
-      <Forenames>J. O</Forenames>
-      <Text>'F</Text>
+      <Forenames>J. O'F</Forenames>
       <PageNumber>8995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1850,8 +1849,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Homer</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>6337</PageNumber>
     </MainItem>
   </ItemGroup>

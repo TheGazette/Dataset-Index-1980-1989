@@ -185,8 +185,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hanson</Key>
-      <Forenames>R.</Forenames>
-      <Text>de G</Text>
+      <Forenames>R. de G</Forenames>
       <PageNumber>6673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1325,7 +1324,9 @@
     <MainItem>
       <Key>Hills</Key>
       <Forenames>D.</Forenames>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>4699</PageNumber>
       <PageNumber>7062</PageNumber>
     </MainItem>

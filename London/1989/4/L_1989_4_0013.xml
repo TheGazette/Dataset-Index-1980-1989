@@ -980,8 +980,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blockman</Key>
-      <Forenames>E. G. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>E. G. St. J</Forenames>
       <PageNumber>11888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2292,7 +2291,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carillo</Key>
-      <Text>de Albornoz, R</Text>
+      <Forenames>de Albornoz</Forenames>
+      <Text>, R</Text>
       <PageNumber>11884</PageNumber>
     </MainItem>
   </ItemGroup>

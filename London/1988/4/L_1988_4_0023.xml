@@ -158,8 +158,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Perriman</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>13977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1453,8 +1452,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reed</Key>
-      <Forenames>C. G. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. G. St. J</Forenames>
       <PageNumber>12786</PageNumber>
     </MainItem>
   </ItemGroup>

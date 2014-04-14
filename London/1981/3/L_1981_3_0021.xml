@@ -207,8 +207,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Farrell</Key>
-      <Forenames>M. R. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>M. R. St. G</Forenames>
       <PageNumber>9296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,8 +319,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ferguson</Key>
-      <Forenames>J. A. G.</Forenames>
-      <Text>de P</Text>
+      <Forenames>J. A. G. de P</Forenames>
       <PageNumber>9300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1334,8 +1332,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gardner</Key>
-      <Forenames>L. E. St</Forenames>
-      <Text>. H</Text>
+      <Forenames>L. E. St. H</Forenames>
       <PageNumber>11696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2268,7 +2265,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>de Longueil, M. C</Text>
+      <Forenames>de Longueil</Forenames>
+      <Text>, M. C</Text>
       <PageNumber>11690</PageNumber>
     </MainItem>
   </ItemGroup>

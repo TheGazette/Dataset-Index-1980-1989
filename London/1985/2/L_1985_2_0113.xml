@@ -31,8 +31,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, B. J</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>B. J</Forenames>
       <PageNumber>6007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,15 +45,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, J. P. B</Text>
+      <Key>O'Riordan</Key>
+      <Forenames>J. P. B.</Forenames>
       <PageNumber>8667</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, M. P</Text>
+      <Key>O'Riordan</Key>
+      <Forenames>M. P</Forenames>
       <PageNumber>8668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,15 +73,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, M. T</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>M. T</Forenames>
       <PageNumber>8343</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, P. J</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>P. J.</Forenames>
       <PageNumber>6000</PageNumber>
       <PageNumber>6326</PageNumber>
     </MainItem>
@@ -130,8 +130,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, P. F. A</Text>
+      <Key>O'Shea</Key>
+      <Forenames>P. F. A</Forenames>
       <PageNumber>7720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,15 +151,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, C. S</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>C. S</Forenames>
       <PageNumber>7718</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, R. F</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>R. F</Forenames>
       <PageNumber>8027</PageNumber>
     </MainItem>
   </ItemGroup>

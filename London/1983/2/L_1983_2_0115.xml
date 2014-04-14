@@ -237,8 +237,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bassett</Key>
-      <Forenames>J. M. O</Forenames>
-      <Text>'R</Text>
+      <Forenames>J. M. O'R</Forenames>
       <PageNumber>4955</PageNumber>
     </MainItem>
   </ItemGroup>

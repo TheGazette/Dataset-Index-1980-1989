@@ -889,8 +889,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roche</Key>
-      <Forenames>T. O</Forenames>
-      <Text>'G</Text>
+      <Forenames>T. O'G</Forenames>
       <PageNumber>2576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2043,8 +2042,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Forenames>C.</Forenames>
-      <Text>de V</Text>
+      <Forenames>C. de V</Forenames>
       <PageNumber>2212</PageNumber>
     </MainItem>
   </ItemGroup>

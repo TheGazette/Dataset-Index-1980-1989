@@ -794,8 +794,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramsden</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. J. D</Text>
+      <Forenames>N. St. J</Forenames>
+      <Text>. D</Text>
       <PageNumber>13248</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1313,7 +1313,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Reynolds</Key>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>14263</PageNumber>
     </MainItem>
   </ItemGroup>

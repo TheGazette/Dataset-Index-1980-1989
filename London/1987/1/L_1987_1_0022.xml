@@ -1022,9 +1022,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Beaujeu</Forenames>
-      <Text>, D. L</Text>
+      <Key>De Beaujeu</Key>
+      <Forenames>D. L</Forenames>
       <PageNumber>449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1037,16 +1036,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Carvalho</Forenames>
-      <Text>, M. L. M</Text>
+      <Key>De Carvalho</Key>
+      <Forenames>M. L. M.</Forenames>
       <PageNumber>454</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Mare</Forenames>
+      <Key>de Chair</Key>
+      <Forenames>D. G</Forenames>
+      <PageNumber>763</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De La</Key>
+      <Forenames>Mare</Forenames>
       <Text>, R. M</Text>
       <PageNumber>1077</PageNumber>
     </MainItem>
@@ -1060,9 +1065,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lusignan</Forenames>
-      <Text>, S</Text>
+      <Key>De Lusignan</Key>
+      <Forenames>S</Forenames>
       <PageNumber>3938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1117,17 +1121,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Polo</Forenames>
-      <Text>, M. J</Text>
+      <Key>De Polo</Key>
+      <Forenames>M. J</Forenames>
       <PageNumber>3186</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Prochnow</Forenames>
-      <Text>, N. S. H</Text>
+      <Key>De Prochnow</Key>
+      <Forenames>N. S. H.</Forenames>
       <PageNumber>1082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1140,9 +1142,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Val</Forenames>
-      <Text>, K. L</Text>
+      <Key>De Val</Key>
+      <Forenames>K. L</Forenames>
       <PageNumber>448</PageNumber>
     </MainItem>
   </ItemGroup>

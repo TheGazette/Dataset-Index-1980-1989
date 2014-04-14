@@ -1537,8 +1537,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tandy</Key>
-      <Forenames>P. S. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>P. S. O'C</Forenames>
       <PageNumber>3033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1771,8 +1770,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Forenames>W. R.</Forenames>
-      <Text>de C. M</Text>
+      <Forenames>W. R. de C</Forenames>
+      <Text>. M</Text>
       <PageNumber>2241</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -16,6 +16,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Courcier</Key>
+      <Forenames>M. H.</Forenames>
+      <PageNumber>8831</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deeks</Key>
       <Forenames>N. B.</Forenames>
       <PageNumber>11716</PageNumber>
@@ -30,9 +37,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Groose</Forenames>
-      <Text>, L. J</Text>
+      <Key>De Groose</Key>
+      <Forenames>L. J.</Forenames>
       <PageNumber>8822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,9 +142,38 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Roeck</Key>
+      <Forenames>P. E</Forenames>
+      <PageNumber>11160</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Saram</Key>
+      <Forenames>H. O.</Forenames>
+      <PageNumber>11423</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Spretter</Key>
+      <Forenames>D. B.</Forenames>
+      <PageNumber>11158</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dessain</Key>
       <Forenames>M. C</Forenames>
       <PageNumber>12607</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Tscharner</Key>
+      <Forenames>Vischer</Forenames>
+      <Text>, N. J</Text>
+      <PageNumber>11999</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -167,6 +202,13 @@
       <Key>Dewhurst</Key>
       <Forenames>G.</Forenames>
       <PageNumber>8825</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>M. R.</Forenames>
+      <PageNumber>9474</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -897,9 +939,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Rose</Forenames>
-      <Text>, G. J</Text>
+      <Key>Du Rose</Key>
+      <Forenames>G. J.</Forenames>
       <PageNumber>8836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1585,8 +1626,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eve</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>12000</PageNumber>
     </MainItem>
   </ItemGroup>

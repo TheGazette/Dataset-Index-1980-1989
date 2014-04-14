@@ -94,6 +94,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Tscharner</Key>
+      <Forenames>Vischer</Forenames>
+      <Text>, N. J</Text>
+      <PageNumber>3784</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Devenish</Key>
       <Forenames>M. D. F.</Forenames>
       <PageNumber>820</PageNumber>
@@ -136,8 +144,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Zulueta P. G.</Forenames>
+      <Key>De Zulueta</Key>
+      <Forenames>P. G.</Forenames>
       <PageNumber>463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -831,8 +839,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Earle</Key>
-      <Forenames>J. C. R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. C. R. St. J</Forenames>
       <PageNumber>3781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2278,8 +2285,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fraser</Key>
-      <Forenames>C. T.</Forenames>
-      <Text>de M</Text>
+      <Forenames>C. T. de M</Forenames>
       <PageNumber>2317</PageNumber>
     </MainItem>
   </ItemGroup>

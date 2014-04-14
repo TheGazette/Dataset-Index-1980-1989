@@ -186,9 +186,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Bertele</Forenames>
-      <Text>, M. J</Text>
+      <Key>Von Bertele</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>6327</PageNumber>
     </MainItem>
   </ItemGroup>

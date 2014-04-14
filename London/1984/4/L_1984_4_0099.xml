@@ -45,8 +45,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridge</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. Q. M</Text>
+      <Forenames>D. St. Q</Forenames>
+      <Text>. M</Text>
       <PageNumber>16409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,8 +713,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunbury</Key>
-      <Forenames>M. C.</Forenames>
-      <Text>de St. P</Text>
+      <Forenames>M. C. de St</Forenames>
+      <Text>. P</Text>
       <PageNumber>15320</PageNumber>
     </MainItem>
   </ItemGroup>

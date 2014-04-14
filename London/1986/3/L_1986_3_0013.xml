@@ -2329,8 +2329,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daws</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>11709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2395,6 +2394,13 @@
       <Key>Debenham</Key>
       <Forenames>M. R</Forenames>
       <PageNumber>12639</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Cordova</Key>
+      <Forenames>J. G .</Forenames>
+      <PageNumber>12331</PageNumber>
     </MainItem>
   </ItemGroup>
 </Index>

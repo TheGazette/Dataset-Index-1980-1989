@@ -1921,8 +1921,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Forenames>C.St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C.St. J</Forenames>
       <PageNumber>7233</PageNumber>
     </MainItem>
   </ItemGroup>

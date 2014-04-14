@@ -644,8 +644,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coldicott</Key>
-      <Forenames>T. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>T. St. G</Forenames>
       <PageNumber>5184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1861,8 +1860,7 @@
   <ItemGroup>
     <MainItem>
       <Key>DArcy</Key>
-      <Forenames>A. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>A. O'C</Forenames>
       <PageNumber>7450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2200,6 +2198,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bretton-Gordon</Key>
+      <Forenames>L. J.</Forenames>
+      <PageNumber>4822</PageNumber>
+      <PageNumber>6449</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deck</Key>
       <Forenames>P. E.</Forenames>
       <PageNumber>8073</PageNumber>
@@ -2207,9 +2213,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Courcier</Key>
+      <Forenames>M. H.</Forenames>
+      <PageNumber>5587</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deeley</Key>
       <Forenames>D. H.</Forenames>
       <PageNumber>8075</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ferranti</Key>
+      <Forenames>M. B. Z.</Forenames>
+      <PageNumber>7753</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2284,6 +2304,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Norman</Key>
+      <Forenames>A. L.</Forenames>
+      <PageNumber>8742</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dent</Key>
       <Forenames>J. K</Forenames>
       <PageNumber>4823</PageNumber>
@@ -2326,9 +2353,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Ville</Forenames>
-      <Text>, P. S</Text>
+      <Key>De Ville</Key>
+      <Forenames>P. S.</Forenames>
       <PageNumber>7754</PageNumber>
     </MainItem>
   </ItemGroup>

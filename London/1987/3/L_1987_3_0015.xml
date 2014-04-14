@@ -1117,7 +1117,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bradley</Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>10973</PageNumber>
       <PageNumber>11453</PageNumber>
     </MainItem>
@@ -2336,65 +2338,67 @@
       <Key>Cameron</Key>
       <Forenames>D.</Forenames>
       <Text>CB</Text>
-      <PageNumber>8967</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Cameron</Key>
-      <Forenames>F. A</Forenames>
-      <PageNumber>11463</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Cameron</Key>
-      <Forenames>G.P</Forenames>
-      <PageNumber>9570</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Cameron</Key>
-      <Forenames>W.M</Forenames>
-      <PageNumber>11455</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Cameron-Mowat</Key>
-      <Forenames>I.</Forenames>
-      <PageNumber>11731</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Campbel</Key>
-      <Forenames>R.D.H</Forenames>
-      <PageNumber>11727</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Campbell</Key>
-      <Forenames>A. D.K</Forenames>
-      <PageNumber>9571</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Campbell</Key>
-      <Forenames>A. G</Forenames>
-      <PageNumber>8664</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Campbell</Key>
-      <Forenames>C. G.H</Forenames>
-      <PageNumber>11727</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>8967</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Cameron</Key>
+        <Forenames>F. A</Forenames>
+        <PageNumber>11463</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Cameron</Key>
+        <Forenames>G.P</Forenames>
+        <PageNumber>9570</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Cameron</Key>
+        <Forenames>W.M</Forenames>
+        <PageNumber>11455</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Cameron-Mowat</Key>
+        <Forenames>I.</Forenames>
+        <PageNumber>11731</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Campbel</Key>
+        <Forenames>R.D.H</Forenames>
+        <PageNumber>11727</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Campbell</Key>
+        <Forenames>A. D.K</Forenames>
+        <PageNumber>9571</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Campbell</Key>
+        <Forenames>A. G</Forenames>
+        <PageNumber>8664</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Campbell</Key>
+        <Forenames>C. G.H</Forenames>
+        <PageNumber>11727</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>

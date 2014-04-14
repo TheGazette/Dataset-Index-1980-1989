@@ -250,7 +250,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Clee</Key>
-      <Text>C.B. B</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -996,8 +998,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coughlan</Key>
-      <Title>St.</Title>
-      <Forenames>J. P. P.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>P. P.</Forenames>
       <PageNumber>10464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2038,7 +2040,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Text>KG</Text>
+      <Text>
+        <Honour>KG</Honour>
+      </Text>
       <PageNumber>8093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2283,18 +2287,53 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Gale</Forenames>
-      <Text>, R.H</Text>
+      <Key>de Burgh</Key>
+      <Forenames>Milne</Forenames>
+      <Text>, D. C. L</Text>
+      <PageNumber>8086</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Foubert</Key>
+      <Forenames>N. O. H.</Forenames>
+      <PageNumber>8087</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Gale</Key>
+      <Forenames>R.H</Forenames>
       <PageNumber>9719</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Spretter</Forenames>
-      <Text>, D. B</Text>
+      <Key>de Hochepied</Key>
+      <Forenames>Larpent</Forenames>
+      <Text>, A. L.D</Text>
+      <PageNumber>8086</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Normann</Key>
+      <Forenames>A. L.</Forenames>
+      <PageNumber>10213</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Spretter</Key>
+      <Forenames>D. B</Forenames>
       <PageNumber>9171</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Torre</Key>
+      <Forenames>M. E</Forenames>
+      <PageNumber>9722</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

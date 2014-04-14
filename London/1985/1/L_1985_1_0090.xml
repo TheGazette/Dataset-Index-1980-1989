@@ -810,8 +810,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beaumont</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J. M.'</Text>
+      <Forenames>P. St. J</Forenames>
+      <Text>. M.'</Text>
       <PageNumber>1243</PageNumber>
     </MainItem>
   </ItemGroup>

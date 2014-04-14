@@ -756,8 +756,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyster</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. St. J</Forenames>
       <PageNumber>3272</PageNumber>
     </MainItem>
   </ItemGroup>

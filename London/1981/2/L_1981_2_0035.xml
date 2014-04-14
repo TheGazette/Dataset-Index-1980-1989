@@ -87,9 +87,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Quinton</Forenames>
-      <Text>, E. A</Text>
+      <Key>St. Quinton</Key>
+      <Forenames>E. A.</Forenames>
       <PageNumber>5771</PageNumber>
     </MainItem>
   </ItemGroup>

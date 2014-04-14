@@ -1213,8 +1213,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyle</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>12636</PageNumber>
     </MainItem>
   </ItemGroup>

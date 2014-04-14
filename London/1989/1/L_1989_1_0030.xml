@@ -2076,9 +2076,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Driessen-Magee</Forenames>
-      <Text>, J. M</Text>
+      <Key>Van Driessen-Magee</Key>
+      <Forenames>J. M.</Forenames>
       <PageNumber>337</PageNumber>
     </MainItem>
   </ItemGroup>

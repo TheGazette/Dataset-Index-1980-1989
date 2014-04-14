@@ -355,8 +355,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heyman</Key>
-      <Forenames>R. M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. M. St. J</Forenames>
       <PageNumber>2878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -939,8 +938,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holmes</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>2097</PageNumber>
     </MainItem>
   </ItemGroup>

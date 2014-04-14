@@ -868,15 +868,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Banque</Key>
-      <Forenames>Nationale</Forenames>
-      <Text>de Paris SA London Branch, authorised bank under Building Societies Act</Text>
+      <Forenames>Nationale de Paris</Forenames>
+      <Text>SA London Branch, authorised bank under Building Societies Act</Text>
       <PageNumber>10183</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barclays</Key>
-      <Text>de Zoete Wedd Ltd. (formerly Barclays Merchant Bank Ltd.)</Text>
+      <Forenames>de Zoete Wedd Ltd</Forenames>
+      <Text>. (formerly Barclays Merchant Bank Ltd.)</Text>
       <PageNumber>10183</PageNumber>
     </MainItem>
   </ItemGroup>

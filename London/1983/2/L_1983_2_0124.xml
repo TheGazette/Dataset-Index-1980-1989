@@ -556,8 +556,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scriven</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>P. St. C</Forenames>
       <PageNumber>6324</PageNumber>
     </MainItem>
   </ItemGroup>

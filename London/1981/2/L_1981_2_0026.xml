@@ -10,8 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barker</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>G. St. J</Forenames>
       <PageNumber>5047</PageNumber>
       <PageNumber>6934</PageNumber>
     </MainItem>
@@ -641,8 +640,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bendix</Key>
-      <Forenames>T. M.</Forenames>
-      <Text>de R</Text>
+      <Forenames>T. M. de R</Forenames>
       <PageNumber>6939</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -186,7 +186,9 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>C.</Forenames>
-      <Text>M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>6625</PageNumber>
     </MainItem>
   </ItemGroup>

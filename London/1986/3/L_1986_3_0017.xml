@@ -727,8 +727,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kinahan</Key>
-      <Forenames>D.</Forenames>
-      <Text>de B</Text>
+      <Forenames>D. de B</Forenames>
       <PageNumber>9969</PageNumber>
     </MainItem>
   </ItemGroup>

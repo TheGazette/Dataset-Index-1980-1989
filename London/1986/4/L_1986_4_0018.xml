@@ -53,7 +53,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodwin</Key>
-      <Text>C.H. A</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>13872</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,8 +260,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grandison</Key>
-      <Forenames>O</Forenames>
-      <Text>'B.L</Text>
+      <Title>O'B.</Title>
+      <Forenames>L</Forenames>
       <PageNumber>16780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1261,8 +1263,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Forenames>N.St</Forenames>
-      <Text>. J</Text>
+      <Forenames>N.St. J</Forenames>
       <PageNumber>12947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1475,7 +1476,9 @@
     <MainItem>
       <Key>Hanington</Key>
       <Forenames>R.</Forenames>
-      <Text>K.G</Text>
+      <Text>
+        <Honour>K.G</Honour>
+      </Text>
       <PageNumber>13258</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1524,8 +1527,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hanna</Key>
-      <Forenames>L.O</Forenames>
-      <Text>'B</Text>
+      <Forenames>L.O'B</Forenames>
       <PageNumber>14507</PageNumber>
     </MainItem>
   </ItemGroup>

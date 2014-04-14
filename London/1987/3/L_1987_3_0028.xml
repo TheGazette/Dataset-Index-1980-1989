@@ -178,8 +178,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Merwe</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Merwe</Forenames>
       <Text>, J.M</Text>
       <PageNumber>12061</PageNumber>
     </MainItem>
@@ -271,7 +271,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Vestey</Key>
-      <Text>G.M. W</Text>
+      <Text>
+        <Honour>G.M.</Honour>
+      </Text>
       <PageNumber>11460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1564,7 +1566,9 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>8654</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1901,8 +1905,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wiles</Key>
-      <Forenames>T.O</Forenames>
-      <Text>'D</Text>
+      <Forenames>T.O'D</Forenames>
       <PageNumber>9572</PageNumber>
     </MainItem>
   </ItemGroup>

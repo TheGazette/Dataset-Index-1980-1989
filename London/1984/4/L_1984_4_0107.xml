@@ -2,22 +2,22 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="107" pageID="https://www.thegazette.co.uk/id/London/index/year/1984/volume/4/page/107" pagePDF="https://www.thegazette.co.uk/London/index/year/1984/volume/4/page/107" pageRDF="https://www.thegazette.co.uk/London/index/year/1984/volume/4/page/107?view=linked-data" type="index" volume="4" year="1984">
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, M. E</Text>
+      <Key>O'Neill</Key>
+      <Forenames>M. E.</Forenames>
       <PageNumber>14281</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, T. J</Text>
+      <Key>O'Neill</Key>
+      <Forenames>T. J.</Forenames>
       <PageNumber>14277</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, T. M</Text>
+      <Key>O'Neill</Key>
+      <Forenames>T. M.</Forenames>
       <PageNumber>15322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -58,8 +58,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, F</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>F.</Forenames>
       <PageNumber>15321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,8 +93,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, P. J</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>P. J.</Forenames>
       <PageNumber>13951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,15 +163,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, J. P</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>J. P.</Forenames>
       <PageNumber>13953</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan ,J. P. J</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>J. P. J.</Forenames>
       <PageNumber>13948</PageNumber>
     </MainItem>
   </ItemGroup>

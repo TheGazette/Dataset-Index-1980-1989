@@ -368,8 +368,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephen</Key>
-      <Title>St.</Title>
-      <Forenames>J. C. G.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>C. G.</Forenames>
       <PageNumber>13950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1079,8 +1079,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Swain</Key>
-      <Forenames>C.</Forenames>
-      <Text>de P. D</Text>
+      <Forenames>C. de P</Forenames>
+      <Text>. D</Text>
       <PageNumber>14927</PageNumber>
     </MainItem>
   </ItemGroup>
